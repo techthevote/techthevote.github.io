@@ -22,7 +22,7 @@ excerpt: TODO
 * Can I add promotions or incentives to get people to vote or register their friends?
 {: .questions .right-column }
 
-<hr />
+---
 
 ## What kind of impact can I realistically have?
 {: .question }
@@ -31,13 +31,13 @@ Every vote counts. The products we build are used by people every day.  Even a f
 
 A turnkey messaging prompt to friends and family, a simple request to confirm voter registration, or a carpooling suggestion to get to the polls can help make it easier for people to vote.
 
-<hr />
+---
 
 ## Why does getting out the vote matter?
 
 Elections are frequently won by small margins, so every vote counts.  In almost all states, when a candidate wins by even a slim margin, all the Electoral College votes for the state are tallied to that candidate. For example, state results from 2012 show President Obama won Ohio by an average of only 9 votes per precinct and Florida by an average of 6 votes per precinct.   
 
-<hr />
+---
 
 ## How can I design a good implementation without investing much time?
 

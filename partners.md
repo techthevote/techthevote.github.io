@@ -5,4 +5,4 @@ permalink: /partners
 excerpt: TODO
 ---
 
-TODO
+Coming Soon!

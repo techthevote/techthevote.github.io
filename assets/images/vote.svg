@@ -1,0 +1,21 @@
+<svg width="78px" height="62px" viewBox="317 1386 78 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="5.30801688" y="0" width="26.6159132" height="23.6483607" rx="2"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="26.6159132" height="23.6483607" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="ballot-box-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(319.000000, 1386.000000)">
+        <rect id="Rectangle" stroke="#DDDDDD" stroke-width="4" stroke-linecap="round" x="0.681492286" y="34.1342213" width="73.3185077" height="25.8657787" rx="2"></rect>
+        <path d="M53.1440827,16.1065574 L58.110946,16.1065574 C59.4625677,16.1065574 61.1531917,16.9109525 61.8839048,17.8989575 L72.6743687,32.4888585 C73.4064947,33.4787737 72.9066617,34.2812586 71.560562,34.2812586 L3.12093025,34.2812586 C1.77366586,34.2812586 1.23830285,33.4531022 1.90911771,32.4553847 L11.6736182,17.9324313 C12.3516169,16.924029 13.9895636,16.1065574 15.3500291,16.1065574 L21.7768211,16.1065574" id="Rectangle" stroke="#DDDDDD" stroke-width="4" stroke-linecap="round"></path>
+        <g id="ballot" transform="translate(19.421097, 0.000000)" stroke="#5CAB62">
+            <use id="Rectangle-11" mask="url(#mask-2)" stroke-width="6" xlink:href="#path-1"></use>
+            <path d="M1.04521603,22.3078893 L35.4397869,22.3078893" id="Line" stroke-width="3" stroke-linecap="round"></path>
+            <path d="M25.9273911,15.9375 L30.4150305,15.9375" id="Line" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M25.9273911,11.25 L30.4150305,11.25" id="Line" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M25.9273911,6.5625 L30.4150305,6.5625" id="Line" stroke-width="2" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>
