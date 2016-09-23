@@ -12,21 +12,19 @@ excerpt: TODO
   </div>
 </div>
 
-<ul class="questions left-column">
-  <li>What kind of impact can I realistically have?</li>
-  <li>Why does getting out the vote matter?</li>
-  <li>How can I design a good implementation without investing much time?</li>
-</ul>
+* [What kind of impact can I realistically have?](#what-kind-of-impact-can-i-realistically-have)
+* [Why does getting out the vote matter?](#why-does-getting-out-the-vote-matter)
+* [How can I design a good implementation without investing much time?](#how-can-i-design-a-good-implementation-without-investing-much-time)
+{: .questions .left-column }
 
-<ul class="questions right-column">
-  <li>Who can participate?</li>
-  <li>How do I learn more or get more help?</li>
-  <li>Can I add promotions or incentives to get people to vote or register their friends?</li>
-</ul>
+* Who can participate?
+* How do I learn more or get more help?
+* Can I add promotions or incentives to get people to vote or register their friends?
+{: .questions .right-column }
 
 <hr />
 
-What kind of impact can I realistically have?
+## What kind of impact can I realistically have?
 {: .question }
 
 Every vote counts. The products we build are used by people every day.  Even a few hours of work can have an impact.
@@ -35,13 +33,13 @@ A turnkey messaging prompt to friends and family, a simple request to confirm vo
 
 <hr />
 
-Why does getting out the vote matter?
+## Why does getting out the vote matter?
 
 Elections are frequently won by small margins, so every vote counts.  In almost all states, when a candidate wins by even a slim margin, all the Electoral College votes for the state are tallied to that candidate. For example, state results from 2012 show President Obama won Ohio by an average of only 9 votes per precinct and Florida by an average of 6 votes per precinct.   
 
 <hr />
 
-How can I design a good implementation without investing much time?
+## How can I design a good implementation without investing much time?
 
 A few questions can help kick this off.
 
