@@ -1,0 +1,50 @@
+/* header and footer */
+
+header {
+  margin-top: 50px;
+  margin-bottom: 60px;
+}
+
+.main_nav {
+  list-style-type: none;
+}
+
+.main_nav li {
+  display: inline-block;
+  margin-right: 50px;
+}
+
+.main_nav li a {
+  color: #959595;
+  text-decoration: none;
+  padding-bottom: 3px;
+}
+
+.main_nav li a.home {
+  color: #2A9432;
+}
+
+.main_nav li a.active {
+  color: #2A9432;
+}
+
+.main_nav li a.active.not-home {
+  border-bottom: 3px solid #2A9432;
+}
+
+footer {
+  background-color: #5B5B5B;
+  color: #fff;
+  font-size: 18px;
+  text-align: center;
+  margin-top: 150px; /* TODO figure out the right number for this */
+}
+
+footer .text {
+  padding: 50px;
+}
+
+footer .links-section {
+  background-color: #454545;
+  font-size: 16px;
+}
