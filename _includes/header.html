@@ -7,22 +7,37 @@
       </a>
     </li>
     <li>
-     <a title="Playbook" class="link playbook not-home" href="{{ site.baseurl }}/playbook">
-       The Playbook
-     </a>
+      {% if page.permalink == "/playbook" %}
+        {% assign active = " active" %}
+      {% endif %}
+      <a title="Playbook" class="{{ "link playbook not-home" | append: active }}" href="{{ site.baseurl }}/playbook">
+        The Playbook
+      </a>
      </li>
      <li>
-     <a title="Resources" class="link resources not-home" href="{{ site.baseurl }}/resources">
-       Resources
-     </a>
+       {% assign active = "" %}
+       {% if page.permalink == "/resources" %}
+         {% assign active = " active" %}
+       {% endif %}
+       <a title="Resources" class="{{ "link resources not-home" | append: active }}" href="{{ site.baseurl }}/resources">
+         Resources
+       </a>
      </li>
      <li>
-       <a title="Partners" class="link partners not-home" href="{{ site.baseurl }}/partners">
+       {% assign active = "" %}
+       {% if page.permalink == "/partners" %}
+         {% assign active = " active" %}
+       {% endif %}
+       <a title="Partners" class="{{ "link partners not-home" | append: active }}" href="{{ site.baseurl }}/partners">
          Partners
        </a>
      </li>
      <li>
-       <a title="FAQ" class="link active faq not-home" href="{{ site.baseurl }}/faq">
+       {% assign active = "" %}
+       {% if page.permalink == "/faq" %}
+         {% assign active = " active" %}
+       {% endif %}
+       <a title="FAQ" class="{{ "link faq not-home" | append: active }}" href="{{ site.baseurl }}/faq">
          FAQ
        </a>
      </li>
