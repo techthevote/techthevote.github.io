@@ -26,7 +26,8 @@ excerpt: TODO
 
 <hr />
 
-<div class="question">What kind of impact can I realistically have?</div>
+What kind of impact can I realistically have?
+{: .question }
 
 Every vote counts. The products we build are used by people every day.  Even a few hours of work can have an impact.
 

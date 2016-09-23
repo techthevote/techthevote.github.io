@@ -1,5 +1,9 @@
 /* Common page elements - headers, hr */
 
+.page-content {
+  min-height: 500px;
+}
+
 .page-header {
   color: black;
   font-family: Georgia, Times, "Times New Roman", serif;
