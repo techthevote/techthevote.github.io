@@ -15,12 +15,14 @@ excerpt: TODO
 * [What kind of impact can I realistically have?](#what-kind-of-impact-can-i-realistically-have)
 * [Why does getting out the vote matter?](#why-does-getting-out-the-vote-matter)
 * [How can I design a good implementation without investing much time?](#how-can-i-design-a-good-implementation-without-investing-much-time)
-{: .questions .left-column }
+{: .question-links .left-column }
 
 * Who can participate?
 * How do I learn more or get more help?
 * Can I add promotions or incentives to get people to vote or register their friends?
-{: .questions .right-column }
+{: .question-links .right-column }
+
+<div class="questions-list" markdown="1">
 
 ---
 
@@ -34,12 +36,14 @@ A turnkey messaging prompt to friends and family, a simple request to confirm vo
 ---
 
 ## Why does getting out the vote matter?
+{: .question }
 
 Elections are frequently won by small margins, so every vote counts.  In almost all states, when a candidate wins by even a slim margin, all the Electoral College votes for the state are tallied to that candidate. For example, state results from 2012 show President Obama won Ohio by an average of only 9 votes per precinct and Florida by an average of 6 votes per precinct.   
 
 ---
 
 ## How can I design a good implementation without investing much time?
+{: .question }
 
 A few questions can help kick this off.
 
@@ -53,3 +57,5 @@ A few questions can help kick this off.
   * Both parties are focused on these states, in descending size of Electoral College votes: Florida, Pennsylvania, Ohio, Michigan, Georgia, North Carolina, Virginia, Arizona, Wisconsin, Colorado, Nevada, Iowa.
 
 * And of course, our Turnkey Suggestions take <1 day of work.
+
+</div>

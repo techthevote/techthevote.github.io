@@ -1,19 +1,18 @@
-.questions {
+.question-links {
   display: block;
-  margin: 40px 0 50px;
+  margin: 40px 0 10px;
   position: relative;
   list-style-type: none;
   
-}
+  li {
+    margin-bottom: 30px;
+  }
 
-.questions li {
-  margin-bottom: 30px;
-}
-
-.questions.left-column, .questions.right-column {
-  width: 49%;
-  display: inline-block;
-  vertical-align: top;
+  &.left-column, &.right-column {
+    width: 49%;
+    display: inline-block;
+    vertical-align: top;
+  }
 }
 
 hr {
@@ -24,9 +23,19 @@ hr {
   width: 200px;
 }
 
+.questions-list {
+  max-width: 750px;
+  margin: 0 auto;
+  color: #949494;
+
+  hr {
+    margin: 60px auto;
+  }
+}
+
 .question {
   color: black;
-  margin: 50px 0 20px;
+  margin-bottom: 20px;
   font-family: Georgia, Times, "Times New Roman", serif;
   font-size: 22px;
   line-height: 27px;
