@@ -1,0 +1,10 @@
+Install gems (we install gems locally)
+
+  bundle install --path vendor
+
+Run site on dev server. We used the system version of ruby on os x 10.11 (>2.)
+
+  bundle exec jekyll serve --watch
+
+  (if this doesn't work for you for some reason, check out _config.yml and see
+  if there's something there you should tweak)
