@@ -1,0 +1,15 @@
+.playbook-item {
+  display: table;
+  margin: 0 auto;
+  width: 900px;
+
+  .playbook-image {
+    display: table-cell;
+    width: 122px;
+    text-align: right;
+  }
+
+  .playbook-text {
+    display: table-cell;
+  }
+}
