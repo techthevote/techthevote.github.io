@@ -74,5 +74,3 @@ Download free voter registration tools to offer these directly on your site.
 </div>
 
 </div>
-
----
