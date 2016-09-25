@@ -38,7 +38,9 @@
       }
 
       li {
-        margin-bottom: 30px;
+        margin-bottom: 10px;
+        font-size: 15px;
+        line-height: 1.4;
 
         &::before {
           content: '•';
@@ -48,4 +50,32 @@
       }
     }
   }
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: #C7C7C7;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.playbook-subtitle {
+  font-family: $georgia;
+  font-size: 24px;
+  color: #111111;
+  text-align: center;
+  margin-top: 32px;
+}
+
+.playbook-title-description {
+  color: #949494;
+  font-size: 16px;
+  line-height: 1.4;
+  text-align: center;
+  margin-top: 8px;
+}
+
+.playbook-title-description.one-off {
+  font-size: 15px;
 }
