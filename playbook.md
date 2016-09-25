@@ -2,17 +2,17 @@
 layout: default
 title: The Playbook
 permalink: /playbook
-excerpt: TODO:Playbook
+excerpt: Learn how to encourage your users to vote through our simple playbook of ideas and research on what motivates voters.
 ---
 
 <div class="page-title">
-  New unstyled content
+  The Playbook
   <div class="inner">
-    This Playbook will help you quickly learn what you need to know to get out the vote in your product. If you're short on time, choose from our simple ideas list. To build something that's more organic to your product, read on to understand voter behaviors and the key milestones leading up to Election Day.
+    Quickly learn what you need to know to encourage people using your products to vote. If you're short on time, choose from our simple ideas list. To build something more organic to your product, read on to understand what motivates voters and the key milestones leading up to Election Day.
   </div>
 </div>
 
-*Turnkey Solutions*
+*Simple Ideas*
 **Short on Time? Easy Ways to Participate**
 
 * **Remind people to register and vote:  Start Now**
@@ -28,10 +28,8 @@ excerpt: TODO:Playbook
 You can find free reminder banners, profile pic filters, sample reminder copy, and everything else in _Resources_.
 
 
-*Custom Integrations*
-**Want to Go Deeper? Design Your Own Turnout Features**
-
-**How to get people to vote:**
+*Design Your Own Features*
+**Want to Go Deeper? Learn what motivates people to vote:**
 
 * **Make it social** - People vote when they hear that turnout is expected to be high. Help people share that they've voted.
 * **Plan the trip** - People who make concrete plans ahead of time (when, where, with whom, what to bring) are more likely to vote.
@@ -43,7 +41,8 @@ You can find free reminder banners, profile pic filters, sample reminder copy, a
 More ideas in the research (https://www.gsb.stanford.edu/insights/research-backed-ways-get-out-vote).  
 
 
-**The steps people need to take:**
+*Design Your Own Features*
+**Key Election Milestones: What to ask people to do:**
 
 * **Register** by mid-October
     * Most registration deadlines are ~10/8.  
@@ -51,10 +50,10 @@ More ideas in the research (https://www.gsb.stanford.edu/insights/research-backe
 * **Vote early**
     * 36 states offer early voting by mail or in person.  35% of 2012 votes were early.
     * Example:  *"Be a voter in this election.  Skip the line and _vote early_!"*
-* 3) Ask people to **vote on Election Day, 11/8**
+* Ask people to **vote on Election Day, 11/8**
     * Can your product make planning a voter's trip easier?  People need to find their polling place, get there, and cast their vote.
     * Example: *"Everyone's heading to the polls! _Join them_ and be a voter in this election."*
-* 4) Ask people to **get their friends and family to vote.**  People are more likely to vote (https://www.gsb.stanford.edu/insights/research-backed-ways-get-out-vote) when others are voting and they expect to be held accountable for voting. 
+* Ask people to **get their friends and family to vote.**  People are more likely to vote (https://www.gsb.stanford.edu/insights/research-backed-ways-get-out-vote) when others are voting and they expect to be held accountable for voting. 
 
 _Resources_ includes links to voter registration forms and mail-in ballot request forms.
 
