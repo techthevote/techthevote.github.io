@@ -7,6 +7,7 @@ header {
 
 .main_nav {
   list-style-type: none;
+  font-size: 15px;
 }
 
 .main_nav li {
@@ -47,4 +48,19 @@ footer .text {
 footer .links-section {
   background-color: #454545;
   font-size: 16px;
+}
+
+.social-media-share {
+  position: absolute;
+  display: inline-block;
+  right: 28px;
+  top: 22px;
+}
+
+.fb_iframe_widget {
+  top: -9px;
+}
+
+.twitter-share-button {
+  // pass
 }
