@@ -41,10 +41,9 @@ excerpt: Common questions about TechTheVote.org and election basics
 
 * [What are the key elections milestones and deadlines by state?](#what-are-the-key-elections-milestones-and-deadlines-by-state)
 * [Why does early voting matter?](#why-does-early-voting-matter)
-* [What should I focus on when?](#what-should-i-focus-on-when)
+* [Can I add promotions or incentives to get people to vote or register their friends?](#can-i-add-promotions-or-incentives-to-get-people-to-vote-or-register-their-friends)
 {: .question-links .left-column }
 
-* [Can I add promotions or incentives to get people to vote or register their friends?](#can-i-add-promotions-or-incentives-to-get-people-to-vote-or-register-their-friends)
 * [Who should I target with my messaging?](#who-should-i-target-with-my-messaging)
 * [What gets people to vote?](#what-gets-people-to-vote)
 {: .question-links .right-column }
@@ -60,14 +59,14 @@ excerpt: Common questions about TechTheVote.org and election basics
 ### What is [TechTheVote.org](http://techthevote.org/) about?
 {: .question #what-is-techthevote-about}
 
-We're a non-partisan, grassroots group of professionals from across the tech industry. We're focused on creating more civic engagement in the tech industry, including driving voter turnout through our products. **We don't care who people vote for - we just want more people to vote**.  And since people use our products every day, simple integrations can have an impact.
+We're a non-partisan, grassroots group of professionals from across the tech industry. We're focused on creating more civic engagement in the tech industry, including driving voter turnout through our products. **We don't care who people vote for - we just want more people to vote**. And since people use our products every day, simple integrations can have an impact.
 
 ---
 
 ### What kind of impact can I realistically have?
 {: .question }
 
-Every vote counts. The products we build are used by people every day.  Even a few hours of work can have an impact.
+Every vote counts. The products we build are used by people every day. Even a few hours of work can have an impact.
 
 A simple messaging prompt to friends and family, a request to confirm voter registration, or a carpooling suggestion to get to the polls can make it easier for people to vote.
 
@@ -76,7 +75,7 @@ A simple messaging prompt to friends and family, a request to confirm voter regi
 ### Why does getting out the vote matter?
 {: .question }
 
-Elections are frequently won by small margins, so every vote counts.  In almost all states, when a candidate wins by even a slim margin, all the Electoral College votes for the state are tallied to that candidate. For example, [state results from 2012](https://en.wikipedia.org/wiki/United_States_presidential_election,_2012#Results_by_state'){:target="_blank"} show President Obama won Ohio by an average of only 9 votes per precinct and Florida by an average of 6 votes per precinct.
+Elections are frequently won by small margins, so every vote counts. In almost all states, when a candidate wins by even a slim margin, all the Electoral College votes for the state are tallied to that candidate. For example, [state results from 2012](https://en.wikipedia.org/wiki/United_States_presidential_election,_2012#Results_by_state'){:target="_blank"} show President Obama won Ohio by an average of only 9 votes per precinct and Florida by an average of 6 votes per precinct.
 
 ---
 
@@ -85,7 +84,7 @@ Elections are frequently won by small margins, so every vote counts.  In almost 
 
 A few questions can help kick this off.
 
-* **How does the voting process complement how people use your product?** For example, people will need to find the closest polling place, drive or carpool with friends, and discuss voting recommendations.  Are there easy tie-ins with your product?
+* **How does the voting process complement how people use your product?** For example, people will need to find the closest polling place, drive or carpool with friends, and discuss voting recommendations. Are there easy tie-ins with your product?
 * **How can getting out the vote help you meet your product goals?** For example, if you're encouraging people to share their location in your app, providing the closest polling location could drive turnout and your product goals.
 * **Prioritize battleground states if you can't ship something nationally**. Both parties are focused on these states, in descending size of Electoral College votes: Florida, Pennsylvania, Ohio, Michigan, Georgia, North Carolina, Virginia, Arizona, Wisconsin, Colorado, Nevada, Iowa.
 * And of course, our __Simple Ideas__ take less than one day of work.
@@ -95,7 +94,7 @@ A few questions can help kick this off.
 ### Who can participate?
 {: .question }
 
-Any company can participate, in any way that's right for you. People use our products every day.  We can make a real difference in broad civic participation. 
+Any company can participate, in any way that's right for you. People use our products every day. We can make a real difference in broad civic participation. 
 
 Some leaders like [Airbnb](https://www.airbnb.com/press/news/honoring-the-voting-rights-act){:target="_blank"} and [Google](https://googleblog.blogspot.com/2016/07/a-voice-for-everyone-in-2016.html){:target="_blank"} have already publicly discussed how they're supporting voter turnout.
 
@@ -121,23 +120,9 @@ Reach out to us at [info@techthevote.org](mailto:info@techthevote.org) or join u
 ### What are the key elections milestones and deadlines by state?
 {: .question }
 
-The full calendar of state registration and early vote deadlines is in Google's _Civic Information spreadsheet_.  Request access _here_.
+The full calendar of state registration and early vote deadlines is in Google's Civic Information spreadsheet. You can request access by [filling out this form](https://docs.google.com/forms/d/e/1FAIpQLSe5hF4w1LuO_d4KSlbX1aGtv67XasNjhJc73QbWlkrYVldX_Q/viewform){:target="_blank"}.
 
----
-
-### Why does early voting matter?
-{: .question }
-
-40%+ of ballots will likely be cast early this election.  In 2012, 35% of ballots nationwide were early.  In 2014, 60% of California ballots were early. Keep in mind there is early in-person voting (doesn't usually require extra advance steps beyond registration) and then absentee or mail-in voting (typically does require special steps).
-
----
-
-### What should I focus on when?
-{: .question }
-
-The full calendar of state registration and early vote deadlines is in Google's _Civic Information spreadsheet_.  Request access _here_.
-
-A simple recommendation:
+Our recommendation on what to focus on and when:
 
 * now - 10/15:  focus on voter registration
 * 10/16 - 11/7:  focus on early voting, both by mail and in-person
@@ -145,17 +130,24 @@ A simple recommendation:
 
 ---
 
+### Why does early voting matter?
+{: .question }
+
+Experts expect nearly 40% of ballots will likely be cast early this election.  In 2012, [32% of ballots nationwide](http://www.huffingtonpost.com/michael-p-mcdonald/a-modest-early-voting-ris_b_3430379.html){:target="_blank"} were cast early.  In 2014, 60% of California ballots were early. Keep in mind there is early in-person voting (doesn't usually require extra advance steps beyond registration) and then absentee or mail-in voting (typically has additional requirements).
+
+---
+
 ### Can I add promotions or incentives to get people to vote or register their friends?
 {: .question }
 
-No.  You can't offer anything in return for registering, voting, or getting others to register or vote.  Consult your friendly lawyer for more details.
+No. You can't offer anything in return for registering, voting, or getting others to register or vote. Consult your friendly lawyer for more details.
 
 ---
 
 ### Who should I target with my messaging?
 {: .question }
 
-Eligible voters are over 18 on Election Day, so they're born on or before November 8, 1998.  Turnout patterns have historically varied by demographic.  Young people and minority groups have historically had lower registration and turnout rates. What messaging makes sense for your specific audience?
+Eligible voters are over 18 on Election Day, so they're born on or before November 8, 1998. Turnout patterns have historically varied by demographic. Young people and minority groups have historically had lower registration and turnout rates. What messaging makes sense for your specific audience?
 
 ---
 
