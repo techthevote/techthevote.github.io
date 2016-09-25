@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tech For America
-email: info@techforusa.org
+title: Tech The Vote
+email: techthevote@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   People should vote. You can help. Your products can help people vote, and
   every vote counts.  A 1-day integration can make a difference.
-baseurl: "/techforusa" # the subpath of your site, e.g. /blog
-url: "http://www.techforusa.org" # the base hostname & protocol for your site
-twitter_username: techforusa
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.techthevote.org" # the base hostname & protocol for your site
+twitter_username: techthevotenow
 
 # Build settings
 markdown: kramdown
