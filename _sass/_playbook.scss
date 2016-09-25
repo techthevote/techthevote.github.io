@@ -2,6 +2,7 @@
   display: table;
   margin: 0 auto;
   width: 900px;
+  margin-top: 40px;
 
   .playbook-image {
     display: table-cell;
@@ -65,7 +66,7 @@ hr {
   font-size: 24px;
   color: #111111;
   text-align: center;
-  margin-top: 32px;
+  margin-top: 40px;
 }
 
 .playbook-title-description {
@@ -73,9 +74,29 @@ hr {
   font-size: 16px;
   line-height: 1.4;
   text-align: center;
+  margin: 0 auto;
+  text-align: center;
+  width: 70%;
   margin-top: 8px;
 }
 
 .playbook-title-description.one-off {
   font-size: 15px;
+}
+
+.playbook-item.no-image {
+  width: 790px;
+  margin-top: 20px;
+}
+
+.playbook-text h2 {
+  margin-bottom: 4px;
+}
+
+.playbook-item:last-child {
+  margin-bottom: 50px;
+}
+
+.inner.playbook {
+  margin-bottom: 100px;
 }
