@@ -21,6 +21,10 @@ excerpt: TODO_FAQ
 
 <div class="question-links-container" markdown="1">
 
+## General
+
+---
+
 * [What is techthevote.org about?](#what-is-techthevote-about)
 * [What kind of impact can I realistically have?](#what-kind-of-impact-can-i-realistically-have)
 * [Why does getting out the vote matter?](#why-does-getting-out-the-vote-matter)
@@ -31,20 +35,36 @@ excerpt: TODO_FAQ
 * [How do I learn more or get more help?](#how-do-i-learn-more-or-get-more-help)
 {: .question-links .right-column }
 
-</div>
-
-<div class="questions-list" markdown="1">
+## Elections 101
 
 ---
 
-## What is [techthevote.org](http://techthevote.org/) about?
+* [What are the key elections milestones and deadlines by state?](#what-are-the-key-elections-milestones-and-deadlines-by-state)
+* [Why does early voting matter?](#why-does-early-voting-matter)
+* [What should I focus on when?](#what-should-i-focus-on-when)
+{: .question-links .left-column }
+
+* [Can I add promotions or incentives to get people to vote or register their friends?](#can-i-add-promotions-or-incentives-to-get-people-to-vote-or-register-their-friends)
+* [Who should I target with my messaging?](#who-should-i-target-with-my-messaging)
+* [What gets people to vote?](#what-gets-people-to-vote)
+{: .question-links .right-column }
+
+</div>
+
+
+<div class="questions-list" markdown="1">
+
+## General
+---
+
+### What is [techthevote.org](http://techthevote.org/) about?
 {: .question #what-is-techthevote-about}
 
 We're a non-partisan, grassroots group of professionals from across the tech industry. We're focused on creating more civic engagement in the tech industry, including driving voter turnout through our products. **We don't care who people vote for - we just want more people to vote**.  And since people use our products every day, simple integrations can have an impact.
 
 ---
 
-## What kind of impact can I realistically have?
+### What kind of impact can I realistically have?
 {: .question }
 
 Every vote counts. The products we build are used by people every day.  Even a few hours of work can have an impact.
@@ -53,14 +73,14 @@ A turnkey messaging prompt to friends and family, a simple request to confirm vo
 
 ---
 
-## Why does getting out the vote matter?
+### Why does getting out the vote matter?
 {: .question }
 
 Elections are frequently won by small margins, so every vote counts.  In almost all states, when a candidate wins by even a slim margin, all the Electoral College votes for the state are tallied to that candidate. For example, [state results from 2012](https://en.wikipedia.org/wiki/United_States_presidential_election,_2012#Results_by_state'){:target="_blank"} show President Obama won Ohio by an average of only 9 votes per precinct and Florida by an average of 6 votes per precinct.
 
 ---
 
-## How can I design a good implementation without investing much time?
+### How can I design a good implementation without investing much time?
 {: .question }
 
 A few questions can help kick this off.
@@ -72,7 +92,7 @@ A few questions can help kick this off.
 
 ---
 
-## Who can participate?
+### Who can participate?
 {: .question }
 
 Any company can participate, in any way that's right for you. People use our products every day.  We can make a real difference in broad civic participation. 
@@ -81,9 +101,59 @@ Some leaders like [Airbnb](https://www.airbnb.com/press/news/honoring-the-voting
 
 ---
 
-## How do I learn more or get more help?
+### How do I learn more or get more help?
 {: .question }
 
 Email us at [info@techforusa.org](mailto:info@techforusa.org) with thoughts or to join our partner Slack channel.
+
+## Elections 101
+
+---
+
+### What are the key elections milestones and deadlines by state?
+{: .question }
+
+The full calendar of state registration and early vote deadlines is in Google's _Civic Information spreadsheet_.  Request access _here_.
+
+---
+
+### Why does early voting matter?
+{: .question }
+
+40%+ of ballots will likely be cast early this election.  In 2012, 35% of ballots nationwide were early.  In 2014, 60% of California ballots were early. Keep in mind there is early in-person voting (doesn't usually require extra advance steps beyond registration) and then absentee or mail-in voting (typically does require special steps).
+
+---
+
+### What should I focus on when?
+{: .question }
+
+The full calendar of state registration and early vote deadlines is in Google's _Civic Information spreadsheet_.  Request access _here_.
+
+A simple recommendation:
+
+* now - 10/15:  focus on voter registration
+* 10/16 - 11/7:  focus on early voting, both by mail and in-person
+* 11/8:  focus on Election Day voting
+
+---
+
+### Can I add promotions or incentives to get people to vote or register their friends?
+{: .question }
+
+No.  You can't offer anything in return for registering, voting, or getting others to register or vote.  Consult your friendly lawyer for more details.
+
+---
+
+### Who should I target with my messaging?
+{: .question }
+
+Eligible voters are over 18 on Election Day, so they're born on or before November 8, 1998.  Turnout patterns have historically varied by demographic.  Young people and minority groups have historically had lower registration and turnout rates. What messaging makes sense for your specific audience?
+
+---
+
+### What gets people to vote?
+{: .question }
+
+Check out _the research_ on the subject.  We've included a summary in our _Playbook_ as well.
 
 </div>
