@@ -2,7 +2,7 @@
 layout: default
 title: Partners
 permalink: /partners
-excerpt: TODO
+excerpt: TODO:Partners
 ---
 
 Coming Soon!

@@ -2,7 +2,7 @@
 layout: default
 title: The Playbook
 permalink: /playbook
-excerpt: TODO
+excerpt: TODO:Playbook
 ---
 
 <div class="page-title">

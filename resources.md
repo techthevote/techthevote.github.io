@@ -2,7 +2,7 @@
 layout: default
 title: Resources
 permalink: /resources
-excerpt: TODO
+excerpt: TODO:Resources
 ---
 
 <div class="page-title">

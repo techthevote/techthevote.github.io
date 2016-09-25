@@ -2,7 +2,8 @@
 layout: default
 title: Frequently Asked Questions
 permalink: /faq
-excerpt: TODO
+excerpt: TODO_FAQ
+
 ---
 
 <div class="page-title">
