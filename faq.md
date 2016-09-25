@@ -32,7 +32,7 @@ excerpt: Common questions about TechTheVote.org and election basics
 {: .question-links .left-column }
 
 * [Who can participate?](#who-can-participate)
-* [Can anyone use the banners you provide?] (#can-anyone-use-the-banners-you-provide)
+* [Can anyone use the banners you provide?](#can-anyone-use-the-banners-you-provide)
 * [How do I learn more or get more help?](#how-do-i-learn-more-or-get-more-help)
 {: .question-links .right-column }
 
