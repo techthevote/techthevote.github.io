@@ -14,8 +14,65 @@ excerpt: TODO
 
 ---
 
-TODO
+<div class="resource-item" markdown="1">
+
+<div class="resource-image" markdown="1">
+<a href="http://www.voteplz.org" class="resource-image-inner" markdown="1">
+<img src="/assets/images/voteplz_logo.svg" class="voteplz" />
+</a>
+</div>
+
+<div class="resource-text" markdown="1">
+## voteplz.org
+{: .resources-header }
+
+<http://www.voteplz.org>
+
+Point people here to easily complete their registration and learn more about voting.
+</div>
+
+</div>
 
 ---
 
-TODO
+<div class="resource-item" markdown="1">
+
+<div class="resource-image" markdown="1">
+<a href="https://developers.google.com/civic-information/" class="resource-image-inner" markdown="1">
+<img src="/assets/images/Google_2015_logo.svg" class="google" />
+</a>
+</div>
+
+<div class="resource-text" markdown="1">
+## Google Civic API
+{: .resources-header }
+
+<https://developers.google.com/civic-information/>
+
+Access voting data including state voting requirements and deadlines for registration and early voting and address information for polling locations. Request access here.
+</div>
+
+</div>
+
+---
+
+<div class="resource-item" markdown="1">
+
+<div class="resource-image" markdown="1">
+<a href="https://www.vote.org/technology/" class="resource-image-inner" markdown="1">
+<img src="/assets/images/vote-logo.png" class="voteorg" />
+</a>
+</div>
+
+<div class="resource-text" markdown="1">
+## Vote.org
+{: .resources-header }
+
+<https://www.vote.org/technology/>
+
+Download free voter registration tools to offer these directly on your site.
+</div>
+
+</div>
+
+---

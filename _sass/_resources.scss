@@ -1,0 +1,39 @@
+.resource-item {
+  display: table;
+  margin: 0 auto;
+  max-width: 800px;
+
+  .resource-image {
+    display: table-cell;
+
+    .resource-image-inner {
+      display: block;
+      width: 175px;
+      height: 90px;
+      background-color: white;
+      border: 1px solid #D7D7D7;
+
+      img {
+        width: 121px;
+        margin-left: 27px;
+      }
+      .voteplz, .google { margin-top: 25px; }
+      .voteorg { margin-top: 33px; }
+    }
+  }
+
+  .resource-text {
+    display: table-cell;
+    vertical-align: top;
+    padding-left: 30px;
+    line-height: 1;
+    color: #949494;
+    width: 100%;
+
+    .resources-header {
+      color: #565656;
+      font-size: 22px;
+      text-align: left;
+    }
+  }
+}
