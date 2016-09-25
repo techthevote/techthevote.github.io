@@ -57,7 +57,7 @@ excerpt: Common questions about TechTheVote.org and election basics
 ## General
 ---
 
-### What is [techthevote.org](http://techthevote.org/) about?
+### What is [TechTheVote.org](http://techthevote.org/) about?
 {: .question #what-is-techthevote-about}
 
 We're a non-partisan, grassroots group of professionals from across the tech industry. We're focused on creating more civic engagement in the tech industry, including driving voter turnout through our products. **We don't care who people vote for - we just want more people to vote**.  And since people use our products every day, simple integrations can have an impact.
@@ -101,10 +101,17 @@ Some leaders like [Airbnb](https://www.airbnb.com/press/news/honoring-the-voting
 
 ---
 
+### Can anyone use the banners you provide?
+{: .question }
+
+Yes. All creative assets made available on this site have been dedicated to the public domain under the [Creative Commons Public Domain Dedication (CCO 1.0)](https://creativecommons.org/publicdomain/zero/1.0/){:target="_blank"}. You are free to use and distribute them without restriction.
+
+---
+
 ### How do I learn more or get more help?
 {: .question }
 
-Reach out to us at [info@techforusa.org](mailto:info@techforusa.org) or join us on Slack (see how on our _Resources_ page) to chat with PMs, designers and engineers interested in helping you brainstorm product ideas and answer implementation questions.
+Reach out to us at [info@techthevote.org](mailto:info@techthevote.org) or join us on Slack (see how on our _Resources_ page) to chat with PMs, designers and engineers interested in helping you brainstorm product ideas and answer implementation questions.
 
 
 ## Elections 101
