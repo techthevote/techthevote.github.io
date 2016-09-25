@@ -70,11 +70,23 @@ footer .links-section {
   margin-bottom: 125px;
 }
 
+.arrow-img {
+  background-image: url('/assets/images/arrow_sprite.png');
+  background-repeat: no-repeat;
+  height: 30px;
+  background-position: center;
+  background-position-y: 5px;
+}
+
+.arrow-img:hover {
+  background-position-y: -26px;
+}
+
 .cta-module {
   width: 30%;
   display: inline-block;
-  margin-right: 30px;
-  border: 2px solid #787878;
+  margin: 15px;
+  border: 1px solid #D7D7D7;
   box-sizing: border-box;
   background-color: #FFFFFF;
   border-radius: 8px;

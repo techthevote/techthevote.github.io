@@ -11,7 +11,11 @@ layout: default
           <div class="above-fold-text">
             People should vote. You can help. We all agree this election is important.  Your products can help people vote so this election represents the America we live in. A simple 1-day integration can make a difference.
           </div>
-          <img src="{{site.baseurl}}/assets/images/arrow.png" class="cta-arrow">
+
+          <div class="cta-arrow">
+            <a href="#"><div class="arrow-img"></div></a>
+          </div>
+
         </div>
       </div>
     </div>
