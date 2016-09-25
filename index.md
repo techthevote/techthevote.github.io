@@ -38,7 +38,7 @@ layout: default
         Customize Your Integration
       </div>
       <div class="cta-mod-text">
-        Create a custom solution that fits your brand, is easy to integreat, and provides the most value to your users.
+        Create a custom solution that fits your brand, is easy to integrate, and provides the most value to your users.
       </div>
     </div>
 
