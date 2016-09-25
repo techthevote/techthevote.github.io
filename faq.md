@@ -25,7 +25,7 @@ excerpt: Common questions about TechTheVote.org and election basics
 
 ---
 
-* [What is techthevote.org about?](#what-is-techthevote-about)
+* [What is TechTheVote.org about?](#what-is-techthevote-about)
 * [What kind of impact can I realistically have?](#what-kind-of-impact-can-i-realistically-have)
 * [Why does getting out the vote matter?](#why-does-getting-out-the-vote-matter)
 {: .question-links .left-column }
