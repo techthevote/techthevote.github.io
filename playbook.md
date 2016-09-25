@@ -6,7 +6,65 @@ excerpt: TODO
 ---
 
 <div class="page-header">
-  The Playbook
+  New unstyled content
+  <div class="inner">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec convallis porttitor sapien. Vivamus ultrices et lectus sit amet luctus. Nullam vehicula nisl non diam varius, ut lobortis magna rutrum. Praesent felis nisi, hendrerit vitae imperdiet eget, ultrices ac lorem. 
+  </div>
+</div>
+
+*Turnkey Solutions*
+**Short on Time? Easy Ways to Participate**
+
+* **Remind people to register and vote:  Start Now**
+    * Put up 3 banners nationwide on your main page to remind people to 1) Register, 2) Vote early, and 3) Vote on Election Day.   
+    * Add _free embeds_ to your product so people can check their registration status, register to vote, and request a mail-in ballot.
+* **Ask people to share that they voted — especially early and absentee voters:  10/20 - 11/7**
+    * Add a simple "Tell your friends you voted!" prompt in message composers wherever people message or share in your product.
+    * Encourage your users to add an "I Voted" filter to their profile picture as soon as they've voted.  
+* **Use your distribution channels:  10/20 - 11/8**
+    * Add reminders to register and vote to the emails or push notifications sent by your product. 
+    * Use your community channels — Twitter, Instagram, Facebook, support email footers — to remind people to register and vote, especially early.
+
+You can find free reminder banners, profile pic filters, sample reminder copy, and everything else in _Resources_.
+
+
+*Custom Integrations*
+**Want to Go Deeper? Design Your Own Turnout Features**
+
+**How to get people to vote:**
+
+* **Make it social** - People vote when they hear that turnout is expected to be high. Help people share that they've voted.
+* **Plan the trip** - People who make concrete plans ahead of time (when, where, with whom, what to bring) are more likely to vote.
+* **Make it personal** - People who expect friends or acquaintances to hold them accountable for voting are more likely to vote.
+* **Invoke civic responsibility** - People care about their civic duty and like identifying as a "voter."
+* **Make it easier** - People vote when it's easy. Show people polling locations, transportation options, and friends making the trip.
+* **Remind them -** People vote when they remember it's important and they have a limited time to get it done.
+
+More ideas in the research (https://www.gsb.stanford.edu/insights/research-backed-ways-get-out-vote).  
+
+
+**The steps people need to take:**
+
+* **Register** by mid-October
+    * Most registration deadlines are ~10/8.  
+    * Example: *"Your voter registration deadline is coming up. _Confirm your status_ in 30 seconds."*
+* **Vote early**
+    * 36 states offer early voting by mail or in person.  35% of 2012 votes were early.
+    * Example:  *"Be a voter in this election.  Skip the line and _vote early_!"*
+* 3) Ask people to **vote on Election Day, 11/8**
+    * Can your product make planning a voter's trip easier?  People need to find their polling place, get there, and cast their vote.
+    * Example: *"Everyone's heading to the polls! _Join them_ and be a voter in this election."*
+* 4) Ask people to **get their friends and family to vote.**  People are more likely to vote (https://www.gsb.stanford.edu/insights/research-backed-ways-get-out-vote) when others are voting and they expect to be held accountable for voting. 
+
+_Resources_ includes links to voter registration forms and mail-in ballot request forms.
+
+
+
+
+
+
+<div class="page-header">
+  Old content and mock
   <div class="inner">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec convallis porttitor sapien. Vivamus ultrices et lectus sit amet luctus. Nullam vehicula nisl non diam varius, ut lobortis magna rutrum. Praesent felis nisi, hendrerit vitae imperdiet eget, ultrices ac lorem. 
   </div>
