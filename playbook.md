@@ -26,8 +26,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 <div class="playbook-text" markdown="1">
 ### Remind People to
 {: .playbook-leading-to-action }
-## Register and Vote
-{: .playbook-action }
+<h2 class="playbook-action">Register and Vote</h2>
 * Put up 3 banners nationwide on your main page to remind people to 1) Register, 2) Vote early, and 3) Vote on Election Day..
 * Add free embeds to your product so people can check their registration status, register to vote, and request a mail-in ballot.
 </div>
@@ -41,8 +40,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 <div class="playbook-text" markdown="1">
 ### Ask People to
 {: .playbook-leading-to-action }
-## Share That They Voted
-{: .playbook-action }
+<h2 class="playbook-action">Share That They Voted</h2>
 * This is especially important for early and absentee voter: 10/20 - 11/7.
 * Add a simple “Tell your friends you voted!” prompt in message composers wherever people message or share in your product.
 * Encourage your users to add an “I Voted” filter to their profile picture as soon as they’ve voted.
@@ -57,8 +55,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 <div class="playbook-text" markdown="1">
 ### Make Use of Your
 {: .playbook-leading-to-action }
-## Distribution Channels Between 10/20 - 11/8
-{: .playbook-action }
+<h2 class="playbook-action">Distribution Channels Between 10/20 - 11/8</h2>
 * Add reminders to register and vote to the emails or push notifications sent by your product.
 * Use your community channels — Twitter, Instagram, Facebook, support email footers — to remind people to register and vote, especially early.
 </div>
@@ -75,48 +72,42 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 
 <div class="playbook-item no-image" markdown="1">
 <div class="playbook-text" markdown="1">
-## Make it social
-{: .playbook-action }
+<h2 class="playbook-action">Make it social</h2>
 * People vote when they hear that turnout is expected to be high. Help people share that they’ve voted.
 </div>
 </div>
 
 <div class="playbook-item no-image" markdown="1">
 <div class="playbook-text" markdown="1">
-## Plan the trip
-{: .playbook-action }
+<h2 class="playbook-action">Plan the trip</h2>
 * People who make concrete plans ahead of time (when, where, with whom, what to bring) are more likely to vote.
 </div>
 </div>
 
 <div class="playbook-item no-image" markdown="1">
 <div class="playbook-text" markdown="1">
-## Make it personal
-{: .playbook-action }
+<h2 class="playbook-action">Make it personal</h2>
 * People who expect friends or acquaintances to hold them accountable for voting are more likely to vote.
 </div>
 </div>
 
 <div class="playbook-item no-image" markdown="1">
 <div class="playbook-text" markdown="1">
-## Invoke civic responsibility
-{: .playbook-action }
+<h2 class="playbook-action">Invoke civic responsibility</h2>
 * People care about their civic duty and like identifying as a “voter.”
 </div>
 </div>
 
 <div class="playbook-item no-image" markdown="1">
 <div class="playbook-text" markdown="1">
-## Make it easier
-{: .playbook-action }
+<h2 class="playbook-action">Make it easier</h2>
 * People vote when it’s easy. Show people polling locations, transportation options, and friends making the trip.
 </div>
 </div>
 
 <div class="playbook-item no-image" markdown="1">
 <div class="playbook-text" markdown="1">
-## Remind them
-{: .playbook-action }
+<h2 class="playbook-action">Remind them</h2>
 * People vote when they remember it’s important and they have a limited time to get it done.
 </div>
 </div>
@@ -138,8 +129,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 <div class="playbook-text" markdown="1">
 ### Remind People to
 {: .playbook-leading-to-action }
-## Register by mid-October
-{: .playbook-action }
+<h2 class="playbook-action">Register by mid-October</h2>
 * Most registration deadlines are ~10/8.
 * Example: “Your voter registration deadline is coming up. _Confirm your status_ in 30 seconds.”
 </div>
@@ -153,8 +143,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 <div class="playbook-text" markdown="1">
 ### Remind People to
 {: .playbook-leading-to-action }
-## Vote early
-{: .playbook-action }
+<h2 class="playbook-action">Vote early</h2>
 * 36 states offer early voting by mail or in person. 35% of 2012 votes were early.
 * Example: “Be a voter in this election. Skip the line and _vote early_!”
 </div>
@@ -168,8 +157,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 <div class="playbook-text" markdown="1">
 ### Remind People to
 {: .playbook-leading-to-action }
-## Vote on Election Day, 11/8
-{: .playbook-action }
+<h2 class="playbook-action">Vote on Election Day, 11/8</h2>
 * Can your product make planning a voter’s trip easier? People need to find their polling place, get there, and cast their vote.
 * Example: “Everyone’s heading to the polls! _Join them_ and be a voter in this election.”
 </div>
@@ -183,8 +171,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 <div class="playbook-text" markdown="1">
 ### Ask People to
 {: .playbook-leading-to-action }
-## Get their friends and family to vote
-{: .playbook-action }
+<h2 class="playbook-action">Get their friends and family to vote</h2>
 * People are <a target="_blank" href="https://www.gsb.stanford.edu/insights/research-backed-ways-get-out-vote">more likely to vote</a> when others are voting and they expect to be held accountable for voting.
 </div>
 </div>
