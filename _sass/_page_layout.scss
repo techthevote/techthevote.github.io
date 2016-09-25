@@ -74,10 +74,20 @@ footer .links-section {
   width: 30%;
   display: inline-block;
   margin-right: 30px;
+  border: 2px solid #787878;
+  box-sizing: border-box;
+  background-color: #FFFFFF;
+  border-radius: 8px;
+  padding: 28px;
+  padding-top: 30px;
+  height: 240px;
+  vertical-align: top;
 }
 
 .module-parent {
   margin-top: 70px;
+  text-align: center;
+  margin-bottom: 30px;
 }
 
 .cta-module img {
@@ -85,13 +95,25 @@ footer .links-section {
   margin: 0 auto;
 }
 
+a.cta-module {
+  color: #111111;
+  transition: transform .2s ease-in-out;
+}
+
+a.cta-module:hover {
+  text-decoration: none;
+  transition: transform .2s ease-in-out;
+  transform: scale(1.05);
+  box-shadow: 5px 5px 15px 0 rgba(0,0,0,0.1);
+}
+
 .cta-mod-title {
   font-weight: bold;
   color: #000000;
   opacity: 0.6;
-  font-size: 24px;
+  font-size: 22px;
   text-align: center;
-  margin: 8px 0;
+  margin: 10px 0;
 }
 
 .cta-mod-text {

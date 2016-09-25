@@ -22,27 +22,17 @@ layout: default
   <h2>What We Can Do For You</h2>
 
   <div class="module-parent">
-    <div class="cta-module">
-      <img src="{{site.baseurl}}/assets/images/example_asset.svg" class="cta-mod-img">
+    <a href="./playbook" class="cta-module">
+      <img src="/assets/images/playbook_asset.svg" class="cta-mod-img" />
       <div class="cta-mod-title">
-        View Examples
+        Explore the Playbook
       </div>
       <div class="cta-mod-text">
-        See examples of potential integrations in our gallery and see what others are doing with their integrations.
+        Browse our voter registration playbook to find a variety of solutions that you can implement on your own site.
       </div>
-    </div>
+    </a>
 
-    <div class="cta-module">
-      <img src="{{site.baseurl}}/assets/images/customize_asset.svg" class="cta-mod-img">
-      <div class="cta-mod-title">
-        Customize Your Integration
-      </div>
-      <div class="cta-mod-text">
-        Create a custom solution that fits your brand, is easy to integrate, and provides the most value to your users.
-      </div>
-    </div>
-
-    <div class="cta-module">
+    <a href="./resources" class="cta-module">
       <img src="{{site.baseurl}}/assets/images/discover_asset.svg" class="cta-mod-img">
       <div class="cta-mod-title">
         Discover Resources
@@ -50,7 +40,7 @@ layout: default
       <div class="cta-mod-text">
         Browse our resource section to discover additional ways to encourage and educate your users to vote and participate. 
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
