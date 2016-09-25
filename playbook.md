@@ -8,7 +8,7 @@ excerpt: TODO:Playbook
 <div class="page-title">
   New unstyled content
   <div class="inner">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec convallis porttitor sapien. Vivamus ultrices et lectus sit amet luctus. Nullam vehicula nisl non diam varius, ut lobortis magna rutrum. Praesent felis nisi, hendrerit vitae imperdiet eget, ultrices ac lorem. 
+    This Playbook will help you quickly learn what you need to know to get out the vote in your product. If you're short on time, choose from our simple ideas list. To build something that's more organic to your product, read on to understand voter behaviors and the key milestones leading up to Election Day.
   </div>
 </div>
 
