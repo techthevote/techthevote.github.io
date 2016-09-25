@@ -2,14 +2,14 @@
 layout: default
 title: Frequently Asked Questions
 permalink: /faq
-excerpt: TODO_FAQ
+excerpt: Common questions about TechTheVote.org and election basics
 
 ---
 
 <div class="page-title">
   Frequently Asked Questions
   <div class="inner">
-      Testing web interface for editing ipsum dolor sit amet, consectetur adipiscing elit. Donec convallis porttitor sapien. Vivamus ultrices et lectus sit amet luctus. Nullam vehicula nisl non diam varius, ut lobortis magna rutrum. Praesent felis nisi, hendrerit vitae imperdiet eget, ultrices ac lorem. 
+      Learn more about TechTheVote.org and election basics
   </div>
 </div>
 
@@ -69,7 +69,7 @@ We're a non-partisan, grassroots group of professionals from across the tech ind
 
 Every vote counts. The products we build are used by people every day.  Even a few hours of work can have an impact.
 
-A turnkey messaging prompt to friends and family, a simple request to confirm voter registration, or a carpooling suggestion to get to the polls can help make it easier for people to vote.
+A simple messaging prompt to friends and family, a request to confirm voter registration, or a carpooling suggestion to get to the polls can make it easier for people to vote.
 
 ---
 
@@ -88,7 +88,7 @@ A few questions can help kick this off.
 * **How does the voting process complement how people use your product?** For example, people will need to find the closest polling place, drive or carpool with friends, and discuss voting recommendations.  Are there easy tie-ins with your product?
 * **How can getting out the vote help you meet your product goals?** For example, if you're encouraging people to share their location in your app, providing the closest polling location could drive turnout and your product goals.
 * **Prioritize battleground states if you can't ship something nationally**. Both parties are focused on these states, in descending size of Electoral College votes: Florida, Pennsylvania, Ohio, Michigan, Georgia, North Carolina, Virginia, Arizona, Wisconsin, Colorado, Nevada, Iowa.
-* And of course, our __Turnkey Suggestions__ take <1 day of work.
+* And of course, our __Simple Ideas__ take less than one day of work.
 
 ---
 
@@ -104,7 +104,8 @@ Some leaders like [Airbnb](https://www.airbnb.com/press/news/honoring-the-voting
 ### How do I learn more or get more help?
 {: .question }
 
-Email us at [info@techforusa.org](mailto:info@techforusa.org) with thoughts or to join our partner Slack channel.
+Reach out to us at [info@techforusa.org](mailto:info@techforusa.org) or join us on Slack (see how on our _Resources_ page) to chat with PMs, designers and engineers interested in helping you brainstorm product ideas and answer implementation questions.
+
 
 ## Elections 101
 
