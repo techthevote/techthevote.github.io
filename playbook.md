@@ -5,7 +5,7 @@ permalink: /playbook
 excerpt: TODO
 ---
 
-<div class="page-header">
+<div class="page-title">
   New unstyled content
   <div class="inner">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec convallis porttitor sapien. Vivamus ultrices et lectus sit amet luctus. Nullam vehicula nisl non diam varius, ut lobortis magna rutrum. Praesent felis nisi, hendrerit vitae imperdiet eget, ultrices ac lorem. 
@@ -63,7 +63,7 @@ _Resources_ includes links to voter registration forms and mail-in ballot reques
 
 
 
-<div class="page-header">
+<div class="page-title">
   Old content and mock
   <div class="inner">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec convallis porttitor sapien. Vivamus ultrices et lectus sit amet luctus. Nullam vehicula nisl non diam varius, ut lobortis magna rutrum. Praesent felis nisi, hendrerit vitae imperdiet eget, ultrices ac lorem. 
