@@ -19,7 +19,7 @@ excerpt: TODO
 <div class="playbook-item" markdown="1">
 
 <div class="playbook-image" markdown="1">
-![Register To Vote](/assets/images/register.svg)
+![Register To Vote]({{site.baseurl}}/assets/images/register.svg)
 </div>
 
 <div class="playbook-text" markdown="1">
@@ -42,7 +42,7 @@ excerpt: TODO
 <div class="playbook-item" markdown="1">
 
 <div class="playbook-image" markdown="1">
-![Vote on Election Day](/assets/images/vote.svg)
+![Vote on Election Day]({{site.baseurl}}/assets/images/vote.svg)
 </div>
 
 <div class="playbook-text" markdown="1">
@@ -65,7 +65,7 @@ excerpt: TODO
 <div class="playbook-item" markdown="1">
 
 <div class="playbook-image" markdown="1">
-![Ask Friends and Family](/assets/images/social.svg)
+![Ask Friends and Family]({{site.baseurl}}/assets/images/social.svg)
 </div>
 
 <div class="playbook-text" markdown="1">
@@ -85,7 +85,7 @@ excerpt: TODO
 <div class="playbook-item" markdown="1">
 
 <div class="playbook-image" markdown="1">
-![Register To Vote](/assets/images/register.svg)
+![Register To Vote]({{site.baseurl}}/assets/images/register.svg)
 </div>
 
 <div class="playbook-text" markdown="1">

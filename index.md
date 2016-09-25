@@ -7,11 +7,11 @@ layout: default
     <div class="page-content">
       <div class="wrapper">
         <div class="home">
-          <img src="/assets/images/main-cta.png" class="main-cta">
+          <img src="{{site.baseurl}}/assets/images/main-cta.png" class="main-cta">
           <div class="above-fold-text">
             People should vote. You can help. We all agree this election is important.  Your products can help people vote so this election represents the America we live in. A simple 1-day integration can make a difference.
           </div>
-          <img src="/assets/images/arrow.png" class="cta-arrow">
+          <img src="{{site.baseurl}}/assets/images/arrow.png" class="cta-arrow">
         </div>
       </div>
     </div>
@@ -23,7 +23,7 @@ layout: default
 
   <div class="module-parent">
     <div class="cta-module">
-      <img src="/assets/images/example_asset.svg" class="cta-mod-img">
+      <img src="{{site.baseurl}}/assets/images/example_asset.svg" class="cta-mod-img">
       <div class="cta-mod-title">
         View Examples
       </div>
@@ -33,7 +33,7 @@ layout: default
     </div>
 
     <div class="cta-module">
-      <img src="/assets/images/customize_asset.svg" class="cta-mod-img">
+      <img src="{{site.baseurl}}/assets/images/customize_asset.svg" class="cta-mod-img">
       <div class="cta-mod-title">
         Customize Your Integration
       </div>
@@ -43,7 +43,7 @@ layout: default
     </div>
 
     <div class="cta-module">
-      <img src="/assets/images/discover_asset.svg" class="cta-mod-img">
+      <img src="{{site.baseurl}}/assets/images/discover_asset.svg" class="cta-mod-img">
       <div class="cta-mod-title">
         Discover Resources
       </div>

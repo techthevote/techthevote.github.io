@@ -19,7 +19,7 @@ email: info@techforusa.org
 description: > # this means to ignore newlines until "baseurl:"
   People should vote. You can help. Your products can help people vote, and
   every vote counts.  A 1-day integration can make a difference.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/techforusa" # the subpath of your site, e.g. /blog
 url: "http://www.techforusa.org" # the base hostname & protocol for your site
 twitter_username: techforusa
 
