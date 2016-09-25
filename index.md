@@ -17,3 +17,39 @@ layout: default
     </div>
   </div>
 </div>
+<div class="page-content">
+
+  <h2>What We Can Do For You</h2>
+
+  <div class="module-parent">
+    <div class="cta-module">
+      <img src="/assets/images/example_asset.svg" class="cta-mod-img">
+      <div class="cta-mod-title">
+        View Examples
+      </div>
+      <div class="cta-mod-text">
+        See examples of potential integrations in our gallery and see what others are doing with their integrations.
+      </div>
+    </div>
+
+    <div class="cta-module">
+      <img src="/assets/images/customize_asset.svg" class="cta-mod-img">
+      <div class="cta-mod-title">
+        Customize Your Integration
+      </div>
+      <div class="cta-mod-text">
+        Create a custom solution that fits your brand, is easy to integreat, and provides the most value to your users.
+      </div>
+    </div>
+
+    <div class="cta-module">
+      <img src="/assets/images/discover_asset.svg" class="cta-mod-img">
+      <div class="cta-mod-title">
+        Discover Resources
+      </div>
+      <div class="cta-mod-text">
+        Browse our resource section to discover additional ways to encourage and educate your users to vote and participate. 
+      </div>
+    </div>
+  </div>
+</div>

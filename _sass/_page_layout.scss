@@ -38,7 +38,6 @@ footer {
   color: #fff;
   font-size: 18px;
   text-align: center;
-  margin-top: 150px; /* TODO figure out the right number for this */
 }
 
 footer .text {
@@ -48,6 +47,12 @@ footer .text {
 footer .links-section {
   background-color: #454545;
   font-size: 16px;
+}
+
+.page-content h2 {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size: 27px;
+  text-align: center;
 }
 
 .social-media-share {
@@ -61,6 +66,61 @@ footer .links-section {
   top: -9px;
 }
 
-.twitter-share-button {
-  // pass
+.cta-arrow {
+  margin-bottom: 125px;
+}
+
+.cta-module {
+  width: 30%;
+  display: inline-block;
+  margin-right: 30px;
+}
+
+.module-parent {
+  margin-top: 70px;
+}
+
+.cta-module img {
+  display: block;
+  margin: 0 auto;
+}
+
+.cta-mod-title {
+  font-weight: bold;
+  color: #000000;
+  opacity: 0.6;
+  font-size: 24px;
+  text-align: center;
+  margin: 8px 0;
+}
+
+.cta-mod-text {
+  font-weight: 200;
+  font-size: 16px;
+  line-height: normal;
+  text-align: center;
+}
+
+footer .text {
+  text-align: left;
+  font-size: 17px;
+  line-height: 1.4;
+  font-weight: 200;
+}
+
+.links-section {
+  text-align: right;
+  height: 75px;
+  vertical-align: center;
+}
+
+.links-section .footer-link {
+  display: inline-block;
+  margin-left: 20px;
+  margin-top: 23px;
+  font-size: 16px;
+}
+
+.footer-link:last-child {
+  margin-right: 20px;
 }
