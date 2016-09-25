@@ -21,6 +21,16 @@
       .google { margin-top: 29px; }
       .voteorg { margin-top: 33px; }
     }
+
+    .resource-slack-iframe {
+      width: 175px;
+      height: 90px;
+
+      iframe {
+        display: block;
+        margin: 0 auto;
+      }
+    }
   }
 
   .resource-text {

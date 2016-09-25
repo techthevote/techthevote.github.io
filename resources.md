@@ -8,8 +8,34 @@ excerpt: TODO
 <div class="page-title">
   Resources
   <div class="inner">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec convallis porttitor sapien. Vivamus ultrices et lectus sit amet luctus. Nullam vehicula nisl non diam varius, ut lobortis magna rutrum. Praesent felis nisi, hendrerit vitae imperdiet eget, ultrices ac lorem. 
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec convallis porttitor sapien. Vivamus ultrices et lectus sit amet luctus. Nullam vehicula nisl non diam varius, ut lobortis magna rutrum. Praesent felis nisi, hendrerit vitae imperdiet eget, ultrices ac lorem.
   </div>
+</div>
+
+---
+
+<div class="resource-item" markdown="1">
+
+<div class="resource-image" markdown="1">
+
+<div class="resource-slack-iframe slack" markdown="1">
+{% raw %}
+<script async defer src="http://slack.techthevote.org/slackin.js?large"></script>
+{% endraw %}
+</div>
+
+</div>
+
+<div class="resource-text" markdown="1">
+## Join our public Slack channel
+{: .resources-header }
+
+<http://slack.techthevote.org>
+
+We're available on Slack to answer your questions and help integrate these resources into your products.
+
+</div>
+
 </div>
 
 ---
