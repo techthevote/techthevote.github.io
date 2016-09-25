@@ -11,5 +11,41 @@
 
   .playbook-text {
     display: table-cell;
+    vertical-align: top;
+    padding-left: 45px;
+
+    .playbook-leading-to-action {
+      font-family: $georgia;
+      font-size: 18px;
+      color: #8D8D8D;
+      margin-bottom: 0;
+    }
+
+    .playbook-action {
+      text-align: left;
+      font-size: 22px;
+      color: #565656
+    }
+
+    ul {
+      list-style-type: none;
+      margin-left: 0;
+      color: #949494;
+
+      strong { 
+        color: black; 
+        font-weight: 400;
+      }
+
+      li {
+        margin-bottom: 30px;
+
+        &::before {
+          content: '•';
+          position: absolute;
+          margin-left: -20px;
+        }
+      }
+    }
   }
 }
