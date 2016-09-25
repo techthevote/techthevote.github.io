@@ -28,10 +28,11 @@ excerpt: Common questions about TechTheVote.org and election basics
 * [What is TechTheVote.org about?](#what-is-techthevote-about)
 * [What kind of impact can I realistically have?](#what-kind-of-impact-can-i-realistically-have)
 * [Why does getting out the vote matter?](#why-does-getting-out-the-vote-matter)
+* [How can I design a good implementation without investing much time?](#how-can-i-design-a-good-implementation-without-investing-much-time)
 {: .question-links .left-column }
 
-* [How can I design a good implementation without investing much time?](#how-can-i-design-a-good-implementation-without-investing-much-time)
 * [Who can participate?](#who-can-participate)
+* [Can anyone use the banners you provide?] (#can-anyone-use-the-banners-you-provide)
 * [How do I learn more or get more help?](#how-do-i-learn-more-or-get-more-help)
 {: .question-links .right-column }
 
