@@ -9,7 +9,7 @@ layout: default
         <div class="home">
           <img src="{{site.baseurl}}/assets/images/main-cta.png" class="main-cta">
           <div class="above-fold-text">
-            People should vote. Our industry can help. People use our products everyday, and now our products can help people vote.  We can each do something in a couple hours that can make a big difference.
+            People should vote. Our industry can help. People use our products everyday. We can each do something in a couple hours that can make a difference.
           </div>
 
           <div class="cta-arrow">
