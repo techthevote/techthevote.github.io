@@ -3,6 +3,10 @@
   margin: 0 auto;
   margin-top: 100px;
   width: 90%;
+
+  @include media-query($on-palm) {
+    margin-top: 70px;
+  }
 }
 
 .above-fold-text {
@@ -23,6 +27,10 @@
   margin: 0 auto;
   margin-top: 10px;
   margin-bottom: 50px;
+
+  @include media-query($on-palm) {
+    width: 90%;
+  }
 }
 
 .playbook-nav-wrapper.homepage {

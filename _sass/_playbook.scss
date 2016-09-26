@@ -138,6 +138,10 @@ hr {
 
 .inner.playbook {
   margin-bottom: 100px;
+
+  @include media-query($on-palm) {
+    margin-bottom: 70px;
+  }
 }
 
 .playbook-nav-wrapper {
