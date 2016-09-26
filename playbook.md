@@ -24,7 +24,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
   </a>
   <a href="#" class="nav-element chapter-2">
     <div class="nav-element-title">Voter Motivation</div>
-    <div class="nav-element-description">What motivates people to vote.</div>
+    <div class="nav-element-description">What motivates people to vote</div>
   </a>
   <a href="#" class="nav-element chapter-3">
     <div class="nav-element-title">Key Election Dates</div>
@@ -49,7 +49,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 ### Remind People to
 {: .playbook-leading-to-action }
 <h2 class="playbook-action">Register and Vote</h2>
-* Put up <a href="./resources" class="nav-element">three of our free banners</a> nationwide on your main page to remind people to 1) Register, 2) Vote early, and 3) Vote on Election Day.
+* Put up <a href="./resources" class="nav-element">three of our free banners</a> nationwide on your main page to remind people to 1) register, 2) vote early, and 3) vote on Election Day.
 * Add <a href="./resources" class="nav-element">free embeds</a> to your product so people can check their registration status, register to vote, and request a mail-in ballot.
 </div>
 </div>
@@ -88,7 +88,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 
 <!-- Start DYOF -->
 <div class="playbook-subtitle">Understand Voter Motivation</div>
-<div class="playbook-title-description">Want to go deeper? Learn what motivates people to vote. You can find more ideas in the <a target="_blank" href="https://www.gsb.stanford.edu/insights/research-backed-ways-get-out-vote">research</a>.</div>
+<div class="playbook-title-description">Want to go deeper? Learn what motivates people to vote. Read more in the <a target="_blank" href="https://www.gsb.stanford.edu/insights/research-backed-ways-get-out-vote">research</a>.</div>
 
 ---
 
@@ -139,7 +139,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 
 <!-- Start Election Dates Section -->
 <div class="playbook-subtitle">Key Election Dates</div>
-<div class="playbook-title-description">There's not much time left. Here's what to ask people to do and when. Our <a href="/resources">Resources</a> includes links to voter registration forms and mail-in ballot request forms.</div>
+<div class="playbook-title-description">There's not much time left. Here's what to ask people to do and when. Find links to voter registration forms on our <a href="/resources">Resources</a> page.</div>
 
 ---
 
@@ -152,7 +152,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 ### Remind People to
 {: .playbook-leading-to-action }
 <h2 class="playbook-action">Register by mid-October</h2>
-* Most registration deadlines are ~10/8.
+* Most registration deadlines are around 10/8. Florida, Ohio and Pennyslvania's is 10/11.
 * Example: “Your voter registration deadline is coming up. _Confirm your status_ in 30 seconds.”
 </div>
 </div>
