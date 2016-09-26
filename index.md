@@ -9,7 +9,7 @@ layout: default
         <div class="home">
           <img src="{{site.baseurl}}/assets/images/main-cta.png" class="main-cta">
           <div class="above-fold-text">
-            People should vote. Our industry can help. TechTheVote.org makes it easy with free banners and all the information you need to make a difference in voter turnout. People use our products everyday. Now let's encourage them to vote too.
+            People should vote. Our industry can help. TechTheVote.org makes it easy with all the information you need to make a difference in voter turnout. People use our products everyday. Now let's encourage them to vote too.
           </div>
 
           <div class="cta-arrow">
@@ -29,21 +29,21 @@ layout: default
 
   <!-- Start Nav -->
 <div class="playbook-nav-wrapper homepage">
+  <a href="./playbook#simple-ideas" class="nav-element">
+    <div class="nav-element-title">Discover Simple Ideas</div>
+    <div class="nav-element-description">Quick ideas in 10 minutes to <1 day of work</div>
+  </a>
   <a href="./playbook" class="nav-element">
     <div class="nav-element-title">Explore the Playbook</div>
-    <div class="nav-element-description">Find simple ideas or learn how to build something custom.</div>
+    <div class="nav-element-description">Learn how to build something custom and compelling</div>
   </a>
   <a href="./resources" class="nav-element">
     <div class="nav-element-title">Get Resources</div>
-    <div class="nav-element-description">Download free banners and access useful APIs.</div>
-  </a>
-  <a href="./playbook#simple-ideas" class="nav-element">
-    <div class="nav-element-title">Discover Simple Ideas</div>
-    <div class="nav-element-description">Implement any one of these ideas in 10 minutes to <1 day of work.</div>
+    <div class="nav-element-description">Download free banners and access useful APIs</div>
   </a>
   <a href="./faq" class="nav-element">
     <div class="nav-element-title">FAQs</div>
-    <div class="nav-element-description">Read more about the elections.</div>
+    <div class="nav-element-description">Read more about us and the elections</div>
   </a>
 </div>
 <!-- End Nav -->
