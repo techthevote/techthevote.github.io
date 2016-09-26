@@ -9,7 +9,7 @@ layout: default
         <div class="home">
           <img src="{{site.baseurl}}/assets/images/main-cta.png" class="main-cta">
           <div class="above-fold-text">
-            People should vote. You can help. We all agree this election is important.  Your products can help people vote so this election represents the America we live in. A simple 1-day integration can make a difference.
+            People should vote. Our industry can help. People use our products everyday, and now our products can help people vote.  We can each do something in a couple hours that can make a big difference.
           </div>
 
           <div class="cta-arrow">
@@ -32,7 +32,7 @@ layout: default
         Explore the Playbook
       </div>
       <div class="cta-mod-text">
-        Browse our voter registration playbook to find a variety of solutions that you can implement on your own site.
+        Find simple ideas or learn how to build something custom
       </div>
     </a>
 
@@ -42,7 +42,7 @@ layout: default
         Discover Resources
       </div>
       <div class="cta-mod-text">
-        Browse our resource section to discover additional ways to encourage and educate your users to vote and participate. 
+        Download free banners and access useful APIs
       </div>
     </a>
   </div>
