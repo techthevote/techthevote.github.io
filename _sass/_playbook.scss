@@ -122,3 +122,37 @@ hr {
 .inner.playbook {
   margin-bottom: 100px;
 }
+
+.playbook-nav-wrapper {
+  text-align: center;
+  margin-bottom: 100px;
+
+  a.nav-element {
+    display: inline-block;
+    width: 24%;
+    background-color: #FFFFFF;
+    border: 1px solid #DBDBDB;
+    border-radius: 3px;
+    margin-right: 18px;
+    padding: 10px 18px;
+  }
+
+  a.nav-element:hover {
+    text-decoration: none;
+  }
+
+  .nav-element-title {
+    font-size: 18px;
+    font-family: $georgia;
+    color: #0D0D0D;
+    text-align: left;
+  }
+
+  .nav-element-description {
+    color: #949494;
+    font-size: 15px;
+    line-height: 1.4;
+    margin-bottom: 2px;
+    text-align: left;
+  }
+}

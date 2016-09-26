@@ -12,6 +12,23 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
   </div>
 </div>
 
+<!-- Start Playbook Nav -->
+<div class="playbook-nav-wrapper">
+  <a href="#" class="nav-element">
+    <div class="nav-element-title">Short on time?</div>
+    <div class="nav-element-description">Here are the easiest ways to participate.</div>
+  </a>
+  <a href="#" class="nav-element">
+    <div class="nav-element-title">Want to go deeper?</div>
+    <div class="nav-element-description">Learn what motivates people to vote.</div>
+  </a>
+  <a href="#" class="nav-element">
+    <div class="nav-element-title">Key election milestones.</div>
+    <div class="nav-element-description">Learn what to ask people to do.</div>
+  </a>
+</div>
+<!-- End Playbook Nav -->
+
 <!-- Start Simple Ideas Section -->
 <div class="playbook-subtitle">Simple Ideas</div>
 <div class="playbook-title-description">Short on Time? Here are Some Easy Ways to Participate. You can also find free reminder banners, profile pic filters, sample reminder copy, and everything else in Resources.</div>
