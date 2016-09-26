@@ -9,7 +9,7 @@ excerpt: Common questions about TechTheVote.org and election basics
 <div class="page-title">
   Frequently Asked Questions
   <div class="inner playbook">
-      Learn more about TechTheVote.org, the basics of the election, and why this election is so important.
+      Learn more about TechTheVote.org, the basics of the election, and why this election is so important
   </div>
 </div>
 
@@ -22,7 +22,7 @@ excerpt: Common questions about TechTheVote.org and election basics
 <div class="question-links-container" markdown="1">
 
 <div class="playbook-subtitle">General Questions</div>
-<div class="playbook-title-description">Learn more about who we are and what we offer.</div>
+<div class="playbook-title-description">Learn more about who we are and what we offer</div>
 
 * [What is TechTheVote.org about?](#what-is-techthevote-about)
 * [What kind of impact can I realistically have?](#what-kind-of-impact-can-i-realistically-have)
