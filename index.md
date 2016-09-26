@@ -9,7 +9,7 @@ layout: default
         <div class="home">
           <img src="{{site.baseurl}}/assets/images/main-cta.png" class="main-cta">
           <div class="above-fold-text">
-            People should vote. Our industry can help. People use our products everyday. We can each do something in a couple hours that can make a difference.
+            People should vote. Our industry can help. TechTheVote.org makes it easy with free banners and all the information you need to make a difference in voter turnout. People use our products everyday. Now let's encourage them to vote too.
           </div>
 
           <div class="cta-arrow">
@@ -24,7 +24,8 @@ layout: default
 <div class="page-content">
 
   <div class="playbook-subtitle">Learn How You Can Do Something</div>
-  <div class="above-fold-text below">Every vote counts. In 2012, a swing state like Ohio had an average margin of 9 votes per precinct. All 18 Electoral College votes in Ohio went to the winner. As a tech industry, we can help make sure more people vote, so more voices are heard.</div>
+  <div class="above-fold-text below">Every vote counts. In 2012, a swing state like Ohio had an average margin of just 9 votes per precinct. All of Ohio's Electoral College votes went to the winner. As a tech industry, we can encourage more people to vote so more voices are heard.
+  </div>
 
   <!-- Start Nav -->
 <div class="playbook-nav-wrapper homepage">
@@ -33,7 +34,7 @@ layout: default
     <div class="nav-element-description">Find simple ideas or learn how to build something custom.</div>
   </a>
   <a href="./resources" class="nav-element">
-    <div class="nav-element-title">Discover Resources</div>
+    <div class="nav-element-title">Get Resources</div>
     <div class="nav-element-description">Download free banners and access useful APIs.</div>
   </a>
   <a href="./playbook#simple-ideas" class="nav-element">
@@ -42,7 +43,7 @@ layout: default
   </a>
   <a href="./faq" class="nav-element">
     <div class="nav-element-title">FAQs</div>
-    <div class="nav-element-description">Read more about us, about the elections.</div>
+    <div class="nav-element-description">Read more about the elections.</div>
   </a>
 </div>
 <!-- End Nav -->
