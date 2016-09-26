@@ -40,6 +40,8 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 
 ---
 
+<div class="playbook-items" markdown="1">
+
 <div class="playbook-item" markdown="1">
 <div class="playbook-image register" markdown="1">
 ![Ask Friends and Family]({{site.baseurl}}/assets/images/register.svg)
@@ -81,6 +83,8 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 * Add reminders to register and vote to the emails or push notifications sent by your product.
 * Use your community channels — Twitter, Instagram, Facebook, salse/support email footers — to remind people to register and vote, especially early.
 </div>
+</div>
+
 </div>
 
 ---
@@ -143,6 +147,8 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 
 ---
 
+<div class="playbook-items" markdown="1">
+
 <div class="playbook-item" markdown="1">
 <div class="playbook-image register" markdown="1">
 ![Ask Friends and Family]({{site.baseurl}}/assets/images/register.svg)
@@ -195,6 +201,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 {: .playbook-leading-to-action }
 <h2 class="playbook-action">Get their friends and family to vote</h2>
 * People are <a target="_blank" href="https://www.gsb.stanford.edu/insights/research-backed-ways-get-out-vote">more likely to vote</a> when others are voting and they expect to be held accountable for voting.
+</div>
 </div>
 </div>
 <!-- End Election Milestones Section -->
