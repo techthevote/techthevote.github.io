@@ -74,7 +74,7 @@ A simple messaging prompt to friends and family, a request to confirm voter regi
 ### Why does getting out the vote matter?
 {: .question }
 
-Elections are frequently won by small margins, so every vote counts. In almost all states, when a candidate wins by even a slim margin, all the Electoral College votes for the state are tallied to that candidate. For example, [state results from 2012](https://en.wikipedia.org/wiki/United_States_presidential_election,_2012#Results_by_state'){:target="_blank"} show President Obama won Ohio by an average of only 9 votes per precinct and Florida by an average of 6 votes per precinct.
+Elections are frequently won by small margins, so every vote counts. In almost all states, when a candidate wins by even a slim margin, all the Electoral College votes for the state are tallied to that candidate. For example, [state results from 2012](https://en.wikipedia.org/wiki/United_States_presidential_election,_2012#Results_by_state'){:target="_blank"} show President Barack Obama won Ohio over Mitt Romney by an average of only 9 votes per precinct and Florida by an average of 6 votes per precinct.
 
 ---
 
@@ -86,7 +86,7 @@ A few questions can help kick this off.
 * **How does the voting process complement how people use your product?** For example, people will need to find the closest polling place, drive or carpool with friends, and discuss voting recommendations. Are there easy tie-ins with your product?
 * **How can getting out the vote help you meet your product goals?** For example, if you're encouraging people to share their location in your app, providing the closest polling location could drive turnout and your product goals.
 * **Prioritize battleground states if you can't ship something nationally**. Both parties are focused on these states, in descending size of Electoral College votes: Florida, Pennsylvania, Ohio, Michigan, Georgia, North Carolina, Virginia, Arizona, Wisconsin, Colorado, Nevada, Iowa.
-* And of course, our <a href="./playbook#simple-ideas" class="nav-element">__Simple Ideas__</a> take less than one day of work.
+* And of course, our <a href="./playbook#simple-ideas" class="nav-element">_Simple Ideas_</a> take less than one day of work.
 
 ---
 
@@ -109,7 +109,7 @@ Yes. All creative assets made available on this site have been dedicated to the 
 ### How do I learn more or get more help?
 {: .question }
 
-Reach out to us at [info@techthevote.org](mailto:info@techthevote.org) or join us on Slack (see how on our <a href="./resources" class="nav-element">_Resources_ page</a>) to chat with PMs, designers and engineers interested in helping you brainstorm product ideas and answer implementation questions.
+Reach out to us at [info@techthevote.org](mailto:info@techthevote.org) or join us on Slack (see how on our <a href="./resources" class="nav-element">Resources</a> page) to chat with PMs, designers and engineers interested in helping you brainstorm product ideas and answer implementation questions.
 
 ---
 
@@ -129,7 +129,7 @@ Our recommendation for what to focus on and when:
 ### Why does early voting matter?
 {: .question }
 
-Experts expect nearly 40% of ballots will likely be cast early this election.  In 2012, [32% of ballots nationwide](http://www.huffingtonpost.com/michael-p-mcdonald/a-modest-early-voting-ris_b_3430379.html){:target="_blank"} were cast early.  In 2014, 60% of California ballots were early. Note there is early in-person voting (which doesn’t usually require extra steps beyond registration) and absentee or mail-in voting (which typically has additional requirements).
+Analysts expect 35-40% of ballots will likely be cast early this election.  In 2012, [32% of ballots nationwide](http://www.huffingtonpost.com/michael-p-mcdonald/a-modest-early-voting-ris_b_3430379.html){:target="_blank"} were cast early.  In 2014, [60% of California ballots](http://www.sos.ca.gov/elections/historical-absentee/){:target="_blank"} were early. Note there is early in-person voting (which doesn’t usually require extra steps beyond registration) and absentee or mail-in voting (which typically has additional requirements).
 
 ---
 
@@ -150,6 +150,6 @@ Eligible voters are over 18 on Election Day, so they're born on or before Novemb
 ### What gets people to vote?
 {: .question }
 
-Check out <a href="https://www.gsb.stanford.edu/insights/research-backed-ways-get-out-vote" target="_blank" class="inline-link">some research</a> on the subject.  We've included a summary in our <a href="./playbook" class="nav-element">_Playbook_</a> as well.
+Check out <a href="https://www.gsb.stanford.edu/insights/research-backed-ways-get-out-vote" target="_blank" class="inline-link">some research</a> on the subject.  We've included a summary in our <a href="./playbook" class="nav-element">Playbook</a> as well.
 
 </div>
