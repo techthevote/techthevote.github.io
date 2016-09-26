@@ -74,14 +74,14 @@ Point people here to easily complete their registration and learn more about vot
 </div>
 
 <div class="resource-text" markdown="1">
-## Google Civic API
+## Google Civic Information API
 {: .resources-header }
 
 <div class="resources-url-wrapper">
 	<a href="https://developers.google.com/civic-information/" target="_blank" class="inline-link">https://developers.google.comcivic-information/</a>
 </div>
 
-Access voting data including state voting requirements and deadlines for registration and early voting and address information for polling locations. Request access here.
+State registration deadlines, early voting windows, and polling location addresses, and more. Request access [here](https://docs.google.com/forms/d/e/1FAIpQLSe5hF4w1LuO_d4KSlbX1aGtv67XasNjhJc73QbWlkrYVldX_Q/viewform).
 </div>
 
 </div>
@@ -104,7 +104,7 @@ Access voting data including state voting requirements and deadlines for registr
 	<a href="https://www.vote.org/technology/" target="_blank" class="inline-link">https://www.vote.org/technology</a>
 </div>
 
-Download free voter registration tools to offer these directly on your site.
+Download free voter registration tools to offer directly on your site.
 </div>
 
 </div>
