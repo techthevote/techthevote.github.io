@@ -8,7 +8,12 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 <div class="page-title">
   The Playbook
   <div class="inner playbook">
-    Quickly learn what you need to know to encourage people using your products to vote. If you're short on time, choose from our simple ideas list. To build something more organic to your product, read on to understand what motivates voters and the key milestones leading up to Election Day.
+      Everything you need to know to encourage your users to vote. 
+       Short on time? Choose from our Simple Ideas list. 
+       To build features organic to your product, we've got background below 
+       on what motivates voters and the key milestones leading up to Election Day.
+
+
   </div>
 </div>
 
@@ -31,7 +36,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 
 <!-- Start Simple Ideas Section -->
 <div class="playbook-subtitle">Simple Ideas</div>
-<div class="playbook-title-description">Short on Time? Here are Some Easy Ways to Participate. You can also find free reminder banners, profile pic filters, sample reminder copy, and everything else in Resources.</div>
+<div class="playbook-title-description">Short on time? Here are some easy ways to participate. You can also find free reminder banners, profile picture overlay, sample copy, and everything else you need in <a href="./resources" class="nav-element">Resources</a>.</div>
 
 ---
 
@@ -44,8 +49,8 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 ### Remind People to
 {: .playbook-leading-to-action }
 <h2 class="playbook-action">Register and Vote</h2>
-* Put up 3 banners nationwide on your main page to remind people to 1) Register, 2) Vote early, and 3) Vote on Election Day..
-* Add free embeds to your product so people can check their registration status, register to vote, and request a mail-in ballot.
+* Put up 3 banners nationwide on your main page to remind people to 1) Register, 2) Vote early, and 3) Vote on Election Day.
+* Add <a href="./resources" class="nav-element">free embeds</a> to your product so people can check their registration status, register to vote, and request a mail-in ballot.
 </div>
 </div>
 
@@ -58,9 +63,9 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 ### Ask People to
 {: .playbook-leading-to-action }
 <h2 class="playbook-action">Share That They Voted</h2>
-* This is especially important for early and absentee voter: 10/20 - 11/7.
+* This is especially important for early and absentee voters: 10/20 - 11/7.
 * Add a simple “Tell your friends you voted!” prompt in message composers wherever people message or share in your product.
-* Encourage your users to add an “I Voted” filter to their profile picture as soon as they’ve voted.
+* Encourage your users to add an “I Voted” overlay to their profile picture as soon as they’ve voted
 </div>
 </div>
 
@@ -72,7 +77,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 <div class="playbook-text" markdown="1">
 ### Make Use of Your
 {: .playbook-leading-to-action }
-<h2 class="playbook-action">Distribution Channels Between 10/20 - 11/8</h2>
+<h2 class="playbook-action">Distribution Channels</h2>
 * Add reminders to register and vote to the emails or push notifications sent by your product.
 * Use your community channels — Twitter, Instagram, Facebook, support email footers — to remind people to register and vote, especially early.
 </div>
@@ -83,7 +88,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 
 <!-- Start DYOF -->
 <div class="playbook-subtitle">Design Your Own Features</div>
-<div class="playbook-title-description">Want to Go Deeper? Learn what motivates people to vote. You can find more ideas in the <a target="_blank" href="https://www.gsb.stanford.edu/insights/research-backed-ways-get-out-vote">research</a>.</div>
+<div class="playbook-title-description">Want to go deeper? Learn what motivates people to vote. You can find more ideas in the <a target="_blank" href="https://www.gsb.stanford.edu/insights/research-backed-ways-get-out-vote">research</a>.</div>
 
 ---
 
@@ -160,7 +165,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 <div class="playbook-text" markdown="1">
 ### Remind People to
 {: .playbook-leading-to-action }
-<h2 class="playbook-action">Vote early</h2>
+<h2 class="playbook-action">Vote early from now until 11/7</h2>
 * 36 states offer early voting by mail or in person. 35% of 2012 votes were early.
 * Example: “Be a voter in this election. Skip the line and _vote early_!”
 </div>
