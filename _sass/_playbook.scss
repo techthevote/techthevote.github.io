@@ -156,6 +156,8 @@ hr {
     border-radius: 3px;
     margin-right: 18px;
     padding: 10px 18px;
+    vertical-align: top;
+    min-height: 94px;
 
     @include media-query($on-palm) {
       display: block;
