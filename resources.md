@@ -15,7 +15,7 @@ excerpt: Find useful resources to make your elections integrations easier, from 
 <div class="resource-item" markdown="1">
 
 <div class="resource-image" markdown="1">
-<a href="http://www.voteplz.org" target="_blank" class="resource-image-inner" markdown="1">
+<a href="http://slack.techthevote.org" target="_blank" class="resource-image-inner" markdown="1">
 <img src="{{site.baseurl}}/assets/images/slack_logo.png" class="slack" />
 </a>
 </div>
