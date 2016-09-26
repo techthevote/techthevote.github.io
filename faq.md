@@ -86,7 +86,7 @@ A few questions can help kick this off.
 * **How does the voting process complement how people use your product?** For example, people will need to find the closest polling place, drive or carpool with friends, and discuss voting recommendations. Are there easy tie-ins with your product?
 * **How can getting out the vote help you meet your product goals?** For example, if you're encouraging people to share their location in your app, providing the closest polling location could drive turnout and your product goals.
 * **Prioritize battleground states if you can't ship something nationally**. Both parties are focused on these states, in descending size of Electoral College votes: Florida, Pennsylvania, Ohio, Michigan, Georgia, North Carolina, Virginia, Arizona, Wisconsin, Colorado, Nevada, Iowa.
-* And of course, our __Simple Ideas__ take less than one day of work.
+* And of course, our <a href="./playbook#simple-ideas" class="nav-element">__Simple Ideas__</a> take less than one day of work.
 
 ---
 
@@ -109,14 +109,14 @@ Yes. All creative assets made available on this site have been dedicated to the 
 ### How do I learn more or get more help?
 {: .question }
 
-Reach out to us at [info@techthevote.org](mailto:info@techthevote.org) or join us on Slack (see how on our _Resources_ page) to chat with PMs, designers and engineers interested in helping you brainstorm product ideas and answer implementation questions.
+Reach out to us at [info@techthevote.org](mailto:info@techthevote.org) or join us on Slack (see how on our <a href="./resources" class="nav-element">_Resources_ page</a>) to chat with PMs, designers and engineers interested in helping you brainstorm product ideas and answer implementation questions.
 
 ---
 
 ### What are the key election milestones and deadlines by state?
 {: .question }
 
-The full calendar of state registration and early vote deadlines is in Google's Civic Information spreadsheet. You can request access by [filling out this form](https://docs.google.com/forms/d/e/1FAIpQLSe5hF4w1LuO_d4KSlbX1aGtv67XasNjhJc73QbWlkrYVldX_Q/viewform){:target="_blank"}.
+The full calendar of state registration and early vote deadlines is in <a href="https://docs.google.com/spreadsheets/d/1iWwgneNFajwDlFx91SLCHUxUJOSO7lR0G5zUWFK0YY4/edit#gid=0" target="_blank" class="inline_link">Google's Civic Information spreadsheet</a>. You can request access by [filling out this form](https://docs.google.com/forms/d/e/1FAIpQLSe5hF4w1LuO_d4KSlbX1aGtv67XasNjhJc73QbWlkrYVldX_Q/viewform){:target="_blank"}.
 
 Our recommendation for what to focus on and when:
 
@@ -150,6 +150,6 @@ Eligible voters are over 18 on Election Day, so they're born on or before Novemb
 ### What gets people to vote?
 {: .question }
 
-Check out _the research_ on the subject.  We've included a summary in our _Playbook_ as well.
+Check out <a href="https://www.gsb.stanford.edu/insights/research-backed-ways-get-out-vote" target="_blank" class="inline-link">some research</a> on the subject.  We've included a summary in our <a href="./playbook" class="nav-element">_Playbook_</a> as well.
 
 </div>
