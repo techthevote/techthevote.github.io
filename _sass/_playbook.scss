@@ -53,6 +53,28 @@
   }
 }
 
+.playbook-image.register {
+  img {
+    width: 66%;
+    position: relative;
+    right: -13px;
+  }
+}
+
+.playbook-image.calendar {
+  img {
+    width: 50%;
+  }
+}
+
+.playbook-image.early {
+  img {
+    width: 65%;
+    position: relative;
+    right: -10px;
+  }
+}
+
 hr {
   border: none;
   height: 1px;

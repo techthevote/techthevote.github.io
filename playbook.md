@@ -19,8 +19,8 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 ---
 
 <div class="playbook-item" markdown="1">
-<div class="playbook-image" markdown="1">
-![Ask Friends and Family]({{site.baseurl}}/assets/images/social.svg)
+<div class="playbook-image register" markdown="1">
+![Ask Friends and Family]({{site.baseurl}}/assets/images/register.svg)
 </div>
 
 <div class="playbook-text" markdown="1">
@@ -49,7 +49,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 
 <div class="playbook-item" markdown="1">
 <div class="playbook-image" markdown="1">
-![Ask Friends and Family]({{site.baseurl}}/assets/images/social.svg)
+![Ask Friends and Family]({{site.baseurl}}/assets/images/network.svg)
 </div>
 
 <div class="playbook-text" markdown="1">
@@ -122,8 +122,8 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 ---
 
 <div class="playbook-item" markdown="1">
-<div class="playbook-image" markdown="1">
-![Ask Friends and Family]({{site.baseurl}}/assets/images/social.svg)
+<div class="playbook-image register" markdown="1">
+![Ask Friends and Family]({{site.baseurl}}/assets/images/register.svg)
 </div>
 
 <div class="playbook-text" markdown="1">
@@ -136,8 +136,8 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 </div>
 
 <div class="playbook-item" markdown="1">
-<div class="playbook-image" markdown="1">
-![Ask Friends and Family]({{site.baseurl}}/assets/images/social.svg)
+<div class="playbook-image early" markdown="1">
+![Ask Friends and Family]({{site.baseurl}}/assets/images/early.svg)
 </div>
 
 <div class="playbook-text" markdown="1">
@@ -150,8 +150,8 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 </div>
 
 <div class="playbook-item" markdown="1">
-<div class="playbook-image" markdown="1">
-![Ask Friends and Family]({{site.baseurl}}/assets/images/social.svg)
+<div class="playbook-image calendar" markdown="1">
+![Ask Friends and Family]({{site.baseurl}}/assets/images/calendar.svg)
 </div>
 
 <div class="playbook-text" markdown="1">
