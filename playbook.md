@@ -15,15 +15,15 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 <!-- Start Playbook Nav -->
 <div class="playbook-nav-wrapper">
   <a href="#" class="nav-element">
-    <div class="nav-element-title">Short on time?</div>
+    <div class="nav-element-title chapter-1">Short on time?</div>
     <div class="nav-element-description">Here are the easiest ways to participate.</div>
   </a>
   <a href="#" class="nav-element">
-    <div class="nav-element-title">Want to go deeper?</div>
+    <div class="nav-element-title chapter-2">Want to go deeper?</div>
     <div class="nav-element-description">Learn what motivates people to vote.</div>
   </a>
   <a href="#" class="nav-element">
-    <div class="nav-element-title">Key election milestones.</div>
+    <div class="nav-element-title chapter-3">Key election milestones.</div>
     <div class="nav-element-description">Learn what to ask people to do.</div>
   </a>
 </div>
