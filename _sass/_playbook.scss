@@ -10,6 +10,7 @@
 
   @include media-query($on-palm) {
     width: auto;
+    margin-left: -35px;
   }
 
   .playbook-image {
