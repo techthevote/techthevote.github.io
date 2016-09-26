@@ -36,6 +36,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 <!-- Start Simple Ideas Section -->
 <div class="playbook-subtitle">Simple Ideas</div>
 <div class="playbook-title-description">Short on time? Here are easy ways you can drive voter turnout.
+</div>
 
 ---
 
