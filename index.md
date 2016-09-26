@@ -31,15 +31,15 @@ layout: default
 <div class="playbook-nav-wrapper homepage">
   <a href="./playbook#simple-ideas" class="nav-element">
     <div class="nav-element-title">Discover Simple Ideas</div>
-    <div class="nav-element-description">Quick ideas in 10 minutes to <1 day of work</div>
+    <div class="nav-element-description">Quick ideas in minutes or hours</div>
   </a>
   <a href="./playbook" class="nav-element">
     <div class="nav-element-title">Explore the Playbook</div>
-    <div class="nav-element-description">Learn how to build something custom and compelling</div>
+    <div class="nav-element-description">Build something custom and compelling</div>
   </a>
   <a href="./resources" class="nav-element">
     <div class="nav-element-title">Get Resources</div>
-    <div class="nav-element-description">Download free banners and access useful APIs</div>
+    <div class="nav-element-description">Find free banners and tools</div>
   </a>
   <a href="./faq" class="nav-element">
     <div class="nav-element-title">FAQs</div>
