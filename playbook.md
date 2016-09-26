@@ -31,6 +31,10 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
     <div class="nav-element-title">Key election milestones.</div>
     <div class="nav-element-description">Learn what to ask people to do.</div>
   </a>
+  <a href="#" class="nav-element chapter-4">
+    <div class="nav-element-title">Key election milestones.</div>
+    <div class="nav-element-description">Learn what to ask people to do.</div>
+  </a>
 </div>
 <!-- End Playbook Nav -->
 
@@ -137,7 +141,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 ---
 <!-- End DYOF -->
 
-<!-- Start Final Section -->
+<!-- Start Election Milestones Section -->
 <div class="playbook-subtitle">Design Your Own Features</div>
 <div class="playbook-title-description">Key Election Milestones: What to ask people to do. Our <a href="/resources">Resources section</a> includes links to voter registration forms and mail-in ballot request forms.</div>
 
@@ -197,6 +201,58 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 * People are <a target="_blank" href="https://www.gsb.stanford.edu/insights/research-backed-ways-get-out-vote">more likely to vote</a> when others are voting and they expect to be held accountable for voting.
 </div>
 </div>
-<!-- End Final Section -->
+<!-- End Election Milestones Section -->
+
+
+<!-- Start High Impact Section -->
+<div class="playbook-subtitle">Design Your Own Features</div>
+<div class="playbook-title-description">Want to go deeper? Learn what motivates people to vote. You can find more ideas in the <a target="_blank" href="https://www.gsb.stanford.edu/insights/research-backed-ways-get-out-vote">research</a>.</div>
+
+---
+
+<div class="playbook-item no-image" markdown="1">
+<div class="playbook-text" markdown="1">
+<h2 class="playbook-action">Make it social</h2>
+* People vote when they hear that turnout is expected to be high. Help people share that they’ve voted.
+</div>
+</div>
+
+<div class="playbook-item no-image" markdown="1">
+<div class="playbook-text" markdown="1">
+<h2 class="playbook-action">Plan the trip</h2>
+* People who make concrete plans ahead of time (when, where, with whom, what to bring) are more likely to vote.
+</div>
+</div>
+
+<div class="playbook-item no-image" markdown="1">
+<div class="playbook-text" markdown="1">
+<h2 class="playbook-action">Make it personal</h2>
+* People who expect friends or acquaintances to hold them accountable for voting are more likely to vote.
+</div>
+</div>
+
+<div class="playbook-item no-image" markdown="1">
+<div class="playbook-text" markdown="1">
+<h2 class="playbook-action">Invoke civic responsibility</h2>
+* People care about their civic duty and like identifying as a “voter.”
+</div>
+</div>
+
+<div class="playbook-item no-image" markdown="1">
+<div class="playbook-text" markdown="1">
+<h2 class="playbook-action">Make it easier</h2>
+* People vote when it’s easy. Show people polling locations, transportation options, and friends making the trip.
+</div>
+</div>
+
+<div class="playbook-item no-image" markdown="1">
+<div class="playbook-text" markdown="1">
+<h2 class="playbook-action">Remind them</h2>
+* People vote when they remember it’s important and they have a limited time to get it done.
+</div>
+</div>
+
+---
+<!-- End High Impact Section -->
 
 <!-- <div class="playbook-title-description one-off">You can find free reminder banners, profile pic filters, sample reminder copy, and everything else in Resources.</div> -->
