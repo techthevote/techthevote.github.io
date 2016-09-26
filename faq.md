@@ -22,7 +22,7 @@ excerpt: Common questions about TechTheVote.org and election basics
 <div class="question-links-container" markdown="1">
 
 <div class="playbook-subtitle">General Questions</div>
-<div class="playbook-title-description">Learn more about who we are and the services we offer.</div>
+<div class="playbook-title-description">Learn more about who we are and what we offer.</div>
 
 * [What is TechTheVote.org about?](#what-is-techthevote-about)
 * [What kind of impact can I realistically have?](#what-kind-of-impact-can-i-realistically-have)
@@ -57,7 +57,7 @@ excerpt: Common questions about TechTheVote.org and election basics
 ### What is [TechTheVote.org](http://techthevote.org/) about?
 {: .question #what-is-techthevote-about}
 
-We're a non-partisan, grassroots group of professionals from across the tech industry. We're focused on helping the tech industry be more civic-minded and drive voter turnout through our products. **We don't care who people vote for - we just want more people to vote.** And since people use our products every day, simple integrations can have an impact.
+We're a non-partisan, grassroots group of professionals from across the tech industry. We're focused on helping the tech industry be more civic-minded and drive voter turnout through our products. Our goal is to make it easy by providing all the information companies need to make a difference in voter turnout. **We don't care who people vote for - we just want more people to vote.** And since people use our products every day, simple integrations can have an impact.
 
 
 ---

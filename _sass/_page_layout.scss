@@ -42,6 +42,10 @@ footer {
 
 footer .text {
   padding: 50px;
+
+  @include media-query($on-palm) {
+    padding: 30px;
+  }
 }
 
 footer .links-section {
@@ -72,6 +76,10 @@ footer .links-section {
 
 .cta-arrow {
   margin-bottom: 125px;
+
+  @include media-query($on-palm) {
+    margin-bottom: 75px;
+  }
 }
 
 .arrow-img {
