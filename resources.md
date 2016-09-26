@@ -29,7 +29,7 @@ excerpt: Find useful resources to make your elections integrations easier, from 
 	<a href="#" target="_blank" class="inline-link">http://techthevote.org/resources/image-assets.zip</a>
 </div>
 
-Download free banners and profile picture overlays to <a href="./faq#can-anyone-use-the-banners-you-provide" class="nav-element">use on your site or app</a>
+Download free banners to <a href="./faq#can-anyone-use-the-banners-you-provide" class="nav-element">use on your site or app</a>
 </div>
 
 </div>
