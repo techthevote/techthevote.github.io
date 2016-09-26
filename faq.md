@@ -8,8 +8,8 @@ excerpt: Common questions about TechTheVote.org and election basics
 
 <div class="page-title">
   Frequently Asked Questions
-  <div class="inner">
-      Learn more about TechTheVote.org and election basics
+  <div class="inner playbook">
+      Learn more about TechTheVote.org, the basics of the election, and about why this election is so important.
   </div>
 </div>
 
@@ -21,9 +21,8 @@ excerpt: Common questions about TechTheVote.org and election basics
 
 <div class="question-links-container" markdown="1">
 
-## General
-
----
+<div class="playbook-subtitle">General Questions</div>
+<div class="playbook-title-description">Learn more about who we are and the services we offer.</div>
 
 * [What is TechTheVote.org about?](#what-is-techthevote-about)
 * [What kind of impact can I realistically have?](#what-kind-of-impact-can-i-realistically-have)
@@ -36,9 +35,8 @@ excerpt: Common questions about TechTheVote.org and election basics
 * [How do I learn more or get more help?](#how-do-i-learn-more-or-get-more-help)
 {: .question-links .right-column }
 
-## Elections 101
-
----
+<div class="playbook-subtitle">Elections 101</div>
+<div class="playbook-title-description">Learn more about elections basics.</div>
 
 * [What are the key elections milestones and deadlines by state?](#what-are-the-key-elections-milestones-and-deadlines-by-state)
 * [Why does early voting matter?](#why-does-early-voting-matter)
@@ -54,7 +52,6 @@ excerpt: Common questions about TechTheVote.org and election basics
 
 <div class="questions-list" markdown="1">
 
-## General
 ---
 
 ### What is [TechTheVote.org](http://techthevote.org/) about?
@@ -112,9 +109,6 @@ Yes. All creative assets made available on this site have been dedicated to the 
 {: .question }
 
 Reach out to us at [info@techthevote.org](mailto:info@techthevote.org) or join us on Slack (see how on our _Resources_ page) to chat with PMs, designers and engineers interested in helping you brainstorm product ideas and answer implementation questions.
-
-
-## Elections 101
 
 ---
 
