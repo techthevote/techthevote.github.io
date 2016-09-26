@@ -14,16 +14,16 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 
 <!-- Start Playbook Nav -->
 <div class="playbook-nav-wrapper">
-  <a href="#" class="nav-element">
-    <div class="nav-element-title chapter-1">Short on time?</div>
+  <a href="#" class="nav-element chapter-1">
+    <div class="nav-element-title">Short on time?</div>
     <div class="nav-element-description">Here are the easiest ways to participate.</div>
   </a>
-  <a href="#" class="nav-element">
-    <div class="nav-element-title chapter-2">Want to go deeper?</div>
+  <a href="#" class="nav-element chapter-2">
+    <div class="nav-element-title">Want to go deeper?</div>
     <div class="nav-element-description">Learn what motivates people to vote.</div>
   </a>
-  <a href="#" class="nav-element">
-    <div class="nav-element-title chapter-3">Key election milestones.</div>
+  <a href="#" class="nav-element chapter-3">
+    <div class="nav-element-title">Key election milestones.</div>
     <div class="nav-element-description">Learn what to ask people to do.</div>
   </a>
 </div>
@@ -134,7 +134,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 
 <!-- Start Final Section -->
 <div class="playbook-subtitle">Design Your Own Features</div>
-<div class="playbook-title-description">Key Election Milestones: What to ask people to do. Our Resources section includes links to voter registration forms and mail-in ballot request forms.</div>
+<div class="playbook-title-description">Key Election Milestones: What to ask people to do. Our <a href="/resources">Resources section</a> includes links to voter registration forms and mail-in ballot request forms.</div>
 
 ---
 
