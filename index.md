@@ -36,11 +36,11 @@ layout: default
     <div class="nav-element-title">Discover Resources</div>
     <div class="nav-element-description">Download free banners and access useful APIs.</div>
   </a>
-  <a href="#" class="nav-element">
+  <a href="./playbook#simple-ideas" class="nav-element">
     <div class="nav-element-title">Discover Simple Ideas</div>
     <div class="nav-element-description">Implement any one of these ideas in 10 minutes to <1 day of work.</div>
   </a>
-  <a href="#" class="nav-element">
+  <a href="./faq" class="nav-element">
     <div class="nav-element-title">FAQs</div>
     <div class="nav-element-description">Read more about us, about the elections.</div>
   </a>
