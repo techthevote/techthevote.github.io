@@ -23,7 +23,12 @@ layout: default
 </div>
 <div class="page-content">
 
-  <h2>What We Can Do For You</h2>
+  <h2>Learn How You Can Do Something</h2>
+  Every vote counts. In 2012, a swing state like Ohio had an average margin of 9 votes per precinct. All 18 Electoral College votes in Ohio went to the winner. As a tech industry, we can help make sure more people vote, so more voices are heard.
+  
+  Discover Simple Ideas - Implement any one of these ideas in 10 minutes to <1 day of work
+  FAQs - Read more about us, about the elections
+
 
   <div class="module-parent">
     <a href="./playbook" class="cta-module">
