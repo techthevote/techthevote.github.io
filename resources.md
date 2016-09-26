@@ -12,6 +12,30 @@ excerpt: Find useful resources to make your elections integrations easier, from 
   </div>
 </div>
 
+
+<div class="resource-item" markdown="1">
+
+<div class="resource-image" markdown="1">
+<a href="#" target="_blank" class="resource-image-inner" markdown="1">
+<img src="{{site.baseurl}}/assets/images/download.svg" class="download" />
+</a>
+</div>
+
+<div class="resource-text" markdown="1">
+## Download free image assets
+{: .resources-header }
+
+<div class="resources-url-wrapper">
+	<a href="#" target="_blank" class="inline-link">Download here for free</a>
+</div>
+
+Download free banners and profile picture overlays to <a href="./faq#can-anyone-use-the-banners-you-provide" class="nav-element">use on your site or app</a>
+</div>
+
+</div>
+
+---
+
 <div class="resource-item" markdown="1">
 
 <div class="resource-image" markdown="1">
@@ -19,6 +43,7 @@ excerpt: Find useful resources to make your elections integrations easier, from 
 <img src="{{site.baseurl}}/assets/images/slack_logo.png" class="slack" />
 </a>
 </div>
+
 
 <div class="resource-text" markdown="1">
 ## Join our public Slack channel
@@ -109,25 +134,3 @@ Download free voter registration tools to offer directly on your site.
 
 </div>
 
----
-
-<div class="resource-item" markdown="1">
-
-<div class="resource-image" markdown="1">
-<a href="#" target="_blank" class="resource-image-inner" markdown="1">
-<img src="{{site.baseurl}}/assets/images/download.svg" class="download" />
-</a>
-</div>
-
-<div class="resource-text" markdown="1">
-## Download Free Image Assets
-{: .resources-header }
-
-<div class="resources-url-wrapper">
-	<a href="#" target="_blank" class="inline-link">Download here for free</a>
-</div>
-
-Download free banners, profile picture overlays, and other graphical assets to use on your site.
-</div>
-
-</div>
