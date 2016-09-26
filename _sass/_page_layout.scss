@@ -58,8 +58,12 @@ footer .links-section {
 .social-media-share {
   position: absolute;
   display: inline-block;
-  right: 28px;
+  right: 30px;
   top: 22px;
+
+  @include media-query($on-palm) {
+    display: none;
+  }
 }
 
 .fb_iframe_widget {
