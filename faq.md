@@ -9,7 +9,7 @@ excerpt: Common questions about TechTheVote.org and election basics
 <div class="page-title">
   Frequently Asked Questions
   <div class="inner playbook">
-      Learn more about TechTheVote.org, the basics of the election, and about why this election is so important.
+      Learn more about TechTheVote.org, the basics of the election, and why this election is so important.
   </div>
 </div>
 
@@ -35,10 +35,10 @@ excerpt: Common questions about TechTheVote.org and election basics
 * [How do I learn more or get more help?](#how-do-i-learn-more-or-get-more-help)
 {: .question-links .right-column }
 
-<div class="playbook-subtitle">Elections 101</div>
-<div class="playbook-title-description">Learn more about elections basics.</div>
+<div class="playbook-subtitle">Election 101</div>
+<div class="playbook-title-description">Learn more about election basics.</div>
 
-* [What are the key elections milestones and deadlines by state?](#what-are-the-key-elections-milestones-and-deadlines-by-state)
+* [What are the key election milestones and deadlines by state?](#what-are-the-key-election-milestones-and-deadlines-by-state)
 * [Why does early voting matter?](#why-does-early-voting-matter)
 * [Can I add promotions or incentives to get people to vote or register their friends?](#can-i-add-promotions-or-incentives-to-get-people-to-vote-or-register-their-friends)
 {: .question-links .left-column }
@@ -57,7 +57,8 @@ excerpt: Common questions about TechTheVote.org and election basics
 ### What is [TechTheVote.org](http://techthevote.org/) about?
 {: .question #what-is-techthevote-about}
 
-We're a non-partisan, grassroots group of professionals from across the tech industry. We're focused on creating more civic engagement in the tech industry, including driving voter turnout through our products. **We don't care who people vote for - we just want more people to vote**. And since people use our products every day, simple integrations can have an impact.
+We're a non-partisan, grassroots group of professionals from across the tech industry. We're focused on helping the tech industry be more civic-minded and drive voter turnout through our products. **We don't care who people vote for - we just want more people to vote.** And since people use our products every day, simple integrations can have an impact.
+
 
 ---
 
@@ -112,12 +113,12 @@ Reach out to us at [info@techthevote.org](mailto:info@techthevote.org) or join u
 
 ---
 
-### What are the key elections milestones and deadlines by state?
+### What are the key election milestones and deadlines by state?
 {: .question }
 
 The full calendar of state registration and early vote deadlines is in Google's Civic Information spreadsheet. You can request access by [filling out this form](https://docs.google.com/forms/d/e/1FAIpQLSe5hF4w1LuO_d4KSlbX1aGtv67XasNjhJc73QbWlkrYVldX_Q/viewform){:target="_blank"}.
 
-Our recommendation on what to focus on and when:
+Our recommendation for what to focus on and when:
 
 * now - 10/15:  focus on voter registration
 * 10/16 - 11/7:  focus on early voting, both by mail and in-person
@@ -128,7 +129,7 @@ Our recommendation on what to focus on and when:
 ### Why does early voting matter?
 {: .question }
 
-Experts expect nearly 40% of ballots will likely be cast early this election.  In 2012, [32% of ballots nationwide](http://www.huffingtonpost.com/michael-p-mcdonald/a-modest-early-voting-ris_b_3430379.html){:target="_blank"} were cast early.  In 2014, 60% of California ballots were early. Keep in mind there is early in-person voting (doesn't usually require extra advance steps beyond registration) and then absentee or mail-in voting (typically has additional requirements).
+Experts expect nearly 40% of ballots will likely be cast early this election.  In 2012, [32% of ballots nationwide](http://www.huffingtonpost.com/michael-p-mcdonald/a-modest-early-voting-ris_b_3430379.html){:target="_blank"} were cast early.  In 2014, 60% of California ballots were early. Note there is early in-person voting (which doesn’t usually require extra steps beyond registration) and absentee or mail-in voting (which typically has additional requirements).
 
 ---
 
