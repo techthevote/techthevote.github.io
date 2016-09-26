@@ -12,12 +12,14 @@
       height: 90px;
       background-color: white;
       border: 1px solid #D7D7D7;
+      border-radius: 4px;
 
       img {
         width: 121px;
         margin-left: 27px;
       }
       .voteplz { margin-top: 25px; }
+      .slack { margin-top: 29px; }
       .google { margin-top: 29px; }
       .voteorg { margin-top: 33px; }
     }
@@ -45,10 +47,23 @@
       color: #565656;
       font-size: 22px;
       text-align: left;
+      margin-bottom: 6px;
     }
   }
 
   &:last-child {
     margin-bottom: 85px;
   }
+}
+
+.resources-url-wrapper {
+  display: inline-block;
+  margin-bottom: 6px;
+}
+
+.resource-slack-iframe.slack {
+  display: inline-block;
+  position: relative;
+  top: 4px;
+  left: 2px;
 }

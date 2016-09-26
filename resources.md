@@ -7,30 +7,32 @@ excerpt: Find useful resources to make your elections integrations easier, from 
 
 <div class="page-title">
   Resources
-  <div class="inner">
+  <div class="inner playbook">
     Find useful resources to make your elections integrations easier, from free banners to voter registration sites and civic information APIs
   </div>
 </div>
 
----
-
 <div class="resource-item" markdown="1">
 
 <div class="resource-image" markdown="1">
-
-<div class="resource-slack-iframe slack" markdown="1">
-{% raw %}
-<script async defer src="http://slack.techthevote.org/slackin.js?large"></script>
-{% endraw %}
-</div>
-
+<a href="http://www.voteplz.org" target="_blank" class="resource-image-inner" markdown="1">
+<img src="{{site.baseurl}}/assets/images/slack_logo.png" class="slack" />
+</a>
 </div>
 
 <div class="resource-text" markdown="1">
 ## Join our public Slack channel
 {: .resources-header }
 
-<http://slack.techthevote.org>
+<div class="resources-url-wrapper">
+	<a target="_blank" href="http://slack.techthevote.org" class="inline-link">http://slack.techthevote.org</a>
+</div> 
+
+<div class="resource-slack-iframe slack" markdown="1">
+{% raw %}
+<script async defer src="http://slack.techthevote.org/slackin.js?small"></script>
+{% endraw %}
+</div>
 
 We're available on Slack to answer your questions, brainstorm product ideas, and help integrate these resources into your products.
 
@@ -43,16 +45,18 @@ We're available on Slack to answer your questions, brainstorm product ideas, and
 <div class="resource-item" markdown="1">
 
 <div class="resource-image" markdown="1">
-<a href="http://www.voteplz.org" class="resource-image-inner" markdown="1">
+<a target="_blank" href="http://www.voteplz.org" class="resource-image-inner" markdown="1">
 <img src="{{site.baseurl}}/assets/images/voteplz_logo.svg" class="voteplz" />
 </a>
 </div>
 
 <div class="resource-text" markdown="1">
-## voteplz.org
+## Voteplz.org
 {: .resources-header }
 
-<http://www.voteplz.org>
+<div class="resources-url-wrapper">
+	<a href="http://www.voteplz.org" target="_blank" class="inline-link">http://www.voteplz.org</a>
+</div>
 
 Point people here to easily complete their registration and learn more about voting.
 </div>
@@ -64,8 +68,8 @@ Point people here to easily complete their registration and learn more about vot
 <div class="resource-item" markdown="1">
 
 <div class="resource-image" markdown="1">
-<a href="https://developers.google.com/civic-information/" class="resource-image-inner" markdown="1">
-<img src="{{site.baseurl}}/assets/images/Google_2015_logo.svg" class="google" />
+<a href="https://developers.google.com/civic-information/" target="_blank" class="resource-image-inner" markdown="1">
+<img src="{{site.baseurl}}/assets/images/google_logo.svg" class="google" />
 </a>
 </div>
 
@@ -73,7 +77,9 @@ Point people here to easily complete their registration and learn more about vot
 ## Google Civic API
 {: .resources-header }
 
-<https://developers.google.com/civic-information/>
+<div class="resources-url-wrapper">
+	<a href="https://developers.google.com/civic-information/" target="_blank" class="inline-link">https://developers.google.comcivic-information/</a>
+</div>
 
 Access voting data including state voting requirements and deadlines for registration and early voting and address information for polling locations. Request access here.
 </div>
@@ -85,7 +91,7 @@ Access voting data including state voting requirements and deadlines for registr
 <div class="resource-item" markdown="1">
 
 <div class="resource-image" markdown="1">
-<a href="https://www.vote.org/technology/" class="resource-image-inner" markdown="1">
+<a href="https://www.vote.org/technology/" target="_blank" class="resource-image-inner" markdown="1">
 <img src="{{site.baseurl}}/assets/images/vote-logo.png" class="voteorg" />
 </a>
 </div>
@@ -94,7 +100,9 @@ Access voting data including state voting requirements and deadlines for registr
 ## Vote.org
 {: .resources-header }
 
-<https://www.vote.org/technology/>
+<div class="resources-url-wrapper">
+	<a href="https://www.vote.org/technology/" target="_blank" class="inline-link">https://www.vote.org/technology</a>
+</div>
 
 Download free voter registration tools to offer these directly on your site.
 </div>
