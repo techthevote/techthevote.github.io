@@ -10,8 +10,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
   <div class="inner playbook">
       Everything you need to know to encourage your users to vote. 
        Short on time? Choose from our Simple Ideas list. 
-       To build features organic to your product, we've got background below 
-       on what motivates voters and the key milestones leading up to Election Day.
+       To build features organic to your product, quickly learn what motivates voters and the key dates leading up to Election Day.
 
 
   </div>
@@ -20,23 +19,23 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 <!-- Start Playbook Nav -->
 <div class="playbook-nav-wrapper" id="simple-ideas">
   <a href="#" class="nav-element chapter-1">
-    <div class="nav-element-title">Short on time?</div>
-    <div class="nav-element-description">Here are the easiest ways to participate.</div>
+    <div class="nav-element-title">Simple Ideas</div>
+    <div class="nav-element-description">Short on time? Learn easy options</div>
   </a>
   <a href="#" class="nav-element chapter-2">
-    <div class="nav-element-title">Want to go deeper?</div>
-    <div class="nav-element-description">Learn what motivates people to vote.</div>
+    <div class="nav-element-title">Voter Motivation</div>
+    <div class="nav-element-description">What motivates people to vote.</div>
   </a>
   <a href="#" class="nav-element chapter-3">
-    <div class="nav-element-title">Key election milestones.</div>
-    <div class="nav-element-description">Learn what to ask people to do.</div>
+    <div class="nav-element-title">Key Election Dates</div>
+    <div class="nav-element-description">What's important and when</div>
   </a>
 </div>
 <!-- End Playbook Nav -->
 
 <!-- Start Simple Ideas Section -->
 <div class="playbook-subtitle">Simple Ideas</div>
-<div class="playbook-title-description">Short on time? Here are some easy ways to participate. You can also find free reminder banners, profile picture overlay, sample copy, and everything else you need in <a href="./resources" class="nav-element">Resources</a>.</div>
+<div class="playbook-title-description">Short on time? Here are easy ways you can drive voter turnout.
 
 ---
 
@@ -49,7 +48,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 ### Remind People to
 {: .playbook-leading-to-action }
 <h2 class="playbook-action">Register and Vote</h2>
-* Put up 3 banners nationwide on your main page to remind people to 1) Register, 2) Vote early, and 3) Vote on Election Day.
+* Put up <a href="./resources" class="nav-element">three of our free banners</a> nationwide on your main page to remind people to 1) Register, 2) Vote early, and 3) Vote on Election Day.
 * Add <a href="./resources" class="nav-element">free embeds</a> to your product so people can check their registration status, register to vote, and request a mail-in ballot.
 </div>
 </div>
@@ -63,9 +62,9 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 ### Ask People to
 {: .playbook-leading-to-action }
 <h2 class="playbook-action">Share That They Voted</h2>
-* This is especially important for early and absentee voters: 10/20 - 11/7.
+* This is especially important to encourage more early and mail-in/absentee voters between 10/20 - 11/7.
 * Add a simple “Tell your friends you voted!” prompt in message composers wherever people message or share in your product.
-* Encourage your users to add an “I Voted” overlay to their profile picture as soon as they’ve voted
+* Encourage your users to add an “I Voted” overlay to their profile picture as soon as they’ve voted.
 </div>
 </div>
 
@@ -79,7 +78,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 {: .playbook-leading-to-action }
 <h2 class="playbook-action">Distribution Channels</h2>
 * Add reminders to register and vote to the emails or push notifications sent by your product.
-* Use your community channels — Twitter, Instagram, Facebook, support email footers — to remind people to register and vote, especially early.
+* Use your community channels — Twitter, Instagram, Facebook, salse/support email footers — to remind people to register and vote, especially early.
 </div>
 </div>
 
@@ -87,7 +86,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 <!-- End Simple Ideas Section -->
 
 <!-- Start DYOF -->
-<div class="playbook-subtitle">Design Your Own Features</div>
+<div class="playbook-subtitle">Understand Voter Motivation</div>
 <div class="playbook-title-description">Want to go deeper? Learn what motivates people to vote. You can find more ideas in the <a target="_blank" href="https://www.gsb.stanford.edu/insights/research-backed-ways-get-out-vote">research</a>.</div>
 
 ---
@@ -137,9 +136,9 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 ---
 <!-- End DYOF -->
 
-<!-- Start Election Milestones Section -->
-<div class="playbook-subtitle">Design Your Own Features</div>
-<div class="playbook-title-description">Key Election Milestones: What to ask people to do. Our <a href="/resources">Resources section</a> includes links to voter registration forms and mail-in ballot request forms.</div>
+<!-- Start Election Dates Section -->
+<div class="playbook-subtitle">Key Election Dates</div>
+<div class="playbook-title-description">There's not much time left. Here's what to ask people to do and when. Our <a href="/resources">Resources</a> includes links to voter registration forms and mail-in ballot request forms.</div>
 
 ---
 
@@ -166,7 +165,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 ### Remind People to
 {: .playbook-leading-to-action }
 <h2 class="playbook-action">Vote early from now until 11/7</h2>
-* 36 states offer early voting by mail or in person. 35% of 2012 votes were early.
+* 36 states offer early voting by mail or in person. 32% of 2012 votes were early.
 * Example: “Be a voter in this election. Skip the line and _vote early_!”
 </div>
 </div>
