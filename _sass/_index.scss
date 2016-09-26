@@ -16,3 +16,25 @@
 .cta-arrow {
   margin-top: 35px;
 }
+
+.above-fold-text.below {
+  width: 70%;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+
+.playbook-nav-wrapper.homepage {
+  .nav-element {
+    margin-bottom: 18px;
+
+    .nav-element-title {
+      text-align: center;
+    }
+
+    .nav-element-description {
+      text-align: center;
+    }
+  }
+}

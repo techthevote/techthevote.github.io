@@ -23,33 +23,26 @@ layout: default
 </div>
 <div class="page-content">
 
-  <h2>Learn How You Can Do Something</h2>
-  Every vote counts. In 2012, a swing state like Ohio had an average margin of 9 votes per precinct. All 18 Electoral College votes in Ohio went to the winner. As a tech industry, we can help make sure more people vote, so more voices are heard.
-  
-  Discover Simple Ideas - Implement any one of these ideas in 10 minutes to <1 day of work
-  FAQs - Read more about us, about the elections
+  <div class="playbook-subtitle">Learn How You Can Do Something</div>
+  <div class="above-fold-text below">Every vote counts. In 2012, a swing state like Ohio had an average margin of 9 votes per precinct. All 18 Electoral College votes in Ohio went to the winner. As a tech industry, we can help make sure more people vote, so more voices are heard.</div>
 
-
-  <div class="module-parent">
-    <a href="./playbook" class="cta-module">
-      <img src="/assets/images/playbook_asset.svg" class="cta-mod-img" />
-      <div class="cta-mod-title">
-        Explore the Playbook
-      </div>
-      <div class="cta-mod-text">
-        Find simple ideas or learn how to build something custom
-      </div>
-    </a>
-
-    <a href="./resources" class="cta-module">
-      <img src="{{site.baseurl}}/assets/images/discover_asset.svg" class="cta-mod-img">
-      <div class="cta-mod-title">
-        Discover Resources
-      </div>
-      <div class="cta-mod-text">
-        Download free banners and access useful APIs
-      </div>
-    </a>
-  </div>
+  <!-- Start Nav -->
+<div class="playbook-nav-wrapper homepage">
+  <a href="./playbook" class="nav-element">
+    <div class="nav-element-title">Explore the Playbook</div>
+    <div class="nav-element-description">Find simple ideas or learn how to build something custom.</div>
+  </a>
+  <a href="./resources" class="nav-element">
+    <div class="nav-element-title">Discover Resources</div>
+    <div class="nav-element-description">Download free banners and access useful APIs.</div>
+  </a>
+  <a href="#" class="nav-element">
+    <div class="nav-element-title">Discover Simple Ideas</div>
+    <div class="nav-element-description">Implement any one of these ideas in 10 minutes to <1 day of work.</div>
+  </a>
+  <a href="#" class="nav-element">
+    <div class="nav-element-title">FAQs</div>
+    <div class="nav-element-description">Read more about us, about the elections.</div>
+  </a>
 </div>
-
+<!-- End Nav -->
