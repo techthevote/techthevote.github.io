@@ -1,7 +1,11 @@
+.playbook-items {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
 .playbook-item {
   display: table;
-  margin: 0 auto;
-  width: 900px;
+  width: 100%;
   margin-top: 40px;
 
   @include media-query($on-palm) {
