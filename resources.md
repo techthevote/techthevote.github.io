@@ -16,7 +16,7 @@ excerpt: Find useful resources to make your elections integrations easier, from 
 <div class="resource-item" markdown="1">
 
 <div class="resource-image" markdown="1">
-<a href="#" target="_blank" class="resource-image-inner" markdown="1">
+<a href="{{site.baseurl}}/assets/resources/image-assets.zip" target="_blank" class="resource-image-inner" markdown="1">
 <img src="{{site.baseurl}}/assets/images/download.svg" class="download" />
 </a>
 </div>
@@ -26,7 +26,7 @@ excerpt: Find useful resources to make your elections integrations easier, from 
 {: .resources-header }
 
 <div class="resources-url-wrapper">
-	<a href="#" target="_blank" class="inline-link">http://techthevote.org/resources/image-assets.zip</a>
+	<a href="{{site.baseurl}}/assets/resources/image-assets.zip" target="_blank" class="inline-link">http://techthevote.org/assets/resources/image-assets.zip</a>
 </div>
 
 Download free banners to <a href="./faq#can-anyone-use-the-banners-you-provide" class="nav-element">use on your site or app</a>
@@ -51,7 +51,7 @@ Download free banners to <a href="./faq#can-anyone-use-the-banners-you-provide" 
 
 <div class="resources-url-wrapper">
 	<a target="_blank" href="http://slack.techthevote.org" class="inline-link">http://slack.techthevote.org</a>
-</div> 
+</div>
 
 <div class="resource-slack-iframe slack" markdown="1">
 {% raw %}
@@ -133,4 +133,3 @@ Download free voter registration tools to offer directly on your site.
 </div>
 
 </div>
-
