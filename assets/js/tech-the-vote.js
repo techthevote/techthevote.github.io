@@ -21,3 +21,19 @@ $('.chapter-3').click(function(event) {
     var n = $(document).height();
     $('html, body').animate({ scrollTop: 2100}, 1500);
 });
+
+$('.gallery-logo').click(function(event) {
+  event.preventDefault();
+  $('.gallery-logo').removeClass('selected');
+  $( this ).addClass('selected');
+
+  var companyClass = $( this ).attr("class")
+    .replace("gallery-logo", "")
+    .replace("nav-element", "")
+    .replace("selected", "")
+    .trim();
+  console.log(companyClass);
+
+  $('.gallery-container').css('display', 'none');
+  $('#' + companyClass).css('display', 'flex');
+});

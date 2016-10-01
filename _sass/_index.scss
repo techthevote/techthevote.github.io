@@ -45,4 +45,86 @@
       text-align: center;
     }
   }
+
+  .gallery-logo {
+    background-size: 175px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-origin: content-box;
+    position: relative;
+
+    width: 225px;
+    height: 105px;
+    padding: 0;
+    padding-bottom: 25px;
+
+    .nav-element-description {
+      position: absolute;
+      bottom: 25px;
+      left: 0;
+      right: 0;
+    }
+
+    &.facebook { background-image: url(/assets/images/gallery/logos/facebook-logo-preview-400x400.png); }
+
+    &.skimm { background-image: url(/assets/images/gallery/logos/elections_skimm_logo-db74b0040acfab22a090e90c283af5ff.png); }
+
+    &.google { 
+      background-image: url(/assets/images/gallery/logos/Google_2015_logo.svg.png); 
+      background-size: 125px; 
+    }
+
+    &.airbnb { 
+      background-image: url(/assets/images/gallery/logos/Airbnb_Logo.sng.png); 
+      background-size: 125px;
+      padding-right: 5px;
+      width: 220px;
+    }
+
+    &.quora { 
+      background-image: url(/assets/images/gallery/logos/Quora_logo_2015.svg.png); 
+      background-size: 125px; 
+    }
+    &.square { background-image: url(/assets/images/gallery/logos/Square,_Inc._logo.svg.png); }
+  }
+}
+
+.playbook-nav-wrapper.gallery {
+  margin-bottom: 40px;
+}
+
+div.playbook-nav-wrapper+hr {
+  margin-top: 42px;
+}
+
+br.on-home {
+  @include media-query(850px) {
+    display: none;
+  }
+}
+
+.gallery-container {
+  display: flex;
+  display: none;
+
+  img {
+    border: 5px solid #EAEBEE;
+    max-width: 490px;
+  }
+
+  .gallery-text {
+    margin-left: 50px;
+    color: #949494;
+
+    h2 {
+      color: #111111;
+      text-align: left;
+      font-size: 24px;
+    }
+  }
+}
+
+.homepage-content hr {
+  margin-top: 60px;
+  margin-bottom: 60px;
 }
