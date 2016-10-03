@@ -37,6 +37,7 @@
   .nav-element {
     margin-bottom: 18px;
     padding-top: 30px;
+    margin-top: 4px;
 
     .nav-element-title {
       text-align: center;
@@ -59,11 +60,26 @@
     padding: 0;
     padding-bottom: 25px;
 
+    @include media-query(850px) {
+      width: 90%;
+      height: 90px;
+    }
+
     .nav-element-description {
       position: absolute;
       bottom: 25px;
       left: 0;
       right: 0;
+
+      @include media-query(850px) {
+        position: relative;
+        bottom: 0;
+        top: 70px;
+      }
+    }
+
+    &.selected {
+      background-color: #F4F4F4;
     }
 
     &.facebook { background-image: url(/assets/images/gallery/logos/facebook-logo-preview-400x400.png); }
@@ -79,7 +95,6 @@
       background-image: url(/assets/images/gallery/logos/Airbnb_Logo.sng.png); 
       background-size: 125px;
       padding-right: 5px;
-      width: 220px;
     }
 
     &.quora { 
@@ -105,22 +120,59 @@ br.on-home {
 }
 
 .gallery-container {
-  display: flex;
+  display: inline-block;
   display: none;
+  margin: 0 80px;
+
+  @include media-query(850px) {
+    margin: 0;
+  }
+
+  .gallery-image {
+    display: inline-block;
+  }
+
+  .gallery-text {
+    line-height: 1.4;
+    display: inline-block;
+    width: 40%;
+    vertical-align: top;
+
+    @include media-query(850px) {
+      width: 100%;
+      text-align: center;
+    }
+  }
 
   img {
     border: 5px solid #EAEBEE;
     max-width: 490px;
+
+    @include media-query(850px) {
+      max-width: 100%;
+      border: none;
+      border-radius: 3px;
+    }
   }
 
   .gallery-text {
-    margin-left: 50px;
+    margin-left: 40px;
     color: #949494;
+
+    @include media-query(850px) {
+      margin-left: 0;
+    }
 
     h2 {
       color: #111111;
       text-align: left;
       font-size: 24px;
+
+      @include media-query(850px) {
+        text-align: center;
+        margin-bottom: 0;
+        margin-top: 30px;
+      }
     }
   }
 }

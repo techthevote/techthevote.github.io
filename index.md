@@ -32,7 +32,7 @@ layout: default
   
   <!-- Start Gallery Menu -->
   <div class="playbook-nav-wrapper gallery homepage">
-    <a href="#" class="nav-element gallery-logo facebook">
+    <a href="#" class="nav-element gallery-logo facebook selected">
       <div class="nav-element-description">Homepage Promotion</div>
     </a>
 
@@ -54,11 +54,9 @@ layout: default
   </div>
   <!-- End Gallery Menu -->
 
-  <hr /> 
-
   <!-- Start Gallery Markup -->
 
-  <div id="facebook" class="gallery-container" style="display: flex">
+  <div id="facebook" class="gallery-container" style="display:inline-block">
     <div class="gallery-image">
       <img src="/assets/images/gallery/screenshots/facebook-registration-2016.png" />
     </div>
