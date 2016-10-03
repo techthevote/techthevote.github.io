@@ -8,7 +8,7 @@ excerpt: Find useful resources to make your elections integrations easier, from 
 <div class="page-title">
   Resources
   <div class="inner playbook">
-    Find useful resources to make your elections integrations easier, from free banners to voter registration sites and civic information APIs
+    Find useful resources to make your elections integrations easier, from free banners to voter registration sites and civic information APIs.
   </div>
 </div>
 
@@ -26,10 +26,10 @@ excerpt: Find useful resources to make your elections integrations easier, from 
 {: .resources-header }
 
 <div class="resources-url-wrapper">
-	<a href="{{site.baseurl}}/assets/resources/image-assets.zip" target="_blank" class="inline-link">http://techthevote.org/assets/resources/image-assets.zip</a>
+	<a href="{{site.baseurl}}/assets/resources/image-assets.zip" target="_blank" class="inline-link">Download for free</a>
 </div>
 
-Download free banners to <a href="./faq#can-anyone-use-the-banners-you-provide" class="nav-element">use on your site or app</a>
+Download free banners to <a href="./faq#can-anyone-use-the-banners-you-provide" class="nav-element">use on your site or app</a>.
 </div>
 
 </div>
@@ -51,12 +51,6 @@ Download free banners to <a href="./faq#can-anyone-use-the-banners-you-provide" 
 
 <div class="resources-url-wrapper">
 	<a target="_blank" href="http://slack.techthevote.org" class="inline-link">http://slack.techthevote.org</a>
-</div>
-
-<div class="resource-slack-iframe slack" markdown="1">
-{% raw %}
-<script async defer src="http://slack.techthevote.org/slackin.js?small"></script>
-{% endraw %}
 </div>
 
 We're available on Slack to answer your questions, brainstorm product ideas, and help integrate these resources into your products.

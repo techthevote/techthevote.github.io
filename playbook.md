@@ -17,7 +17,7 @@ excerpt: Learn how to encourage your users to vote through our simple playbook o
 </div>
 
 <!-- Start Playbook Nav -->
-<div class="playbook-nav-wrapper" id="simple-ideas">
+<div class="playbook-nav-wrapper padding-adjust" id="simple-ideas">
   <a href="#" class="nav-element chapter-1">
     <div class="nav-element-title">Simple Ideas</div>
     <div class="nav-element-description">Short on time? Learn easy options</div>

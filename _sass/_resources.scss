@@ -3,6 +3,12 @@
   margin: 0 auto;
   max-width: 800px;
 
+  p {
+    @include media-query($on-palm) {
+      margin-bottom: 0;
+    }
+  }
+
   .resource-image {
     display: table-cell;
 
@@ -17,6 +23,10 @@
       background-color: white;
       border: 1px solid #D7D7D7;
       border-radius: 4px;
+
+      @include media-query($on-palm) {
+        margin: 0 auto;
+      }
 
       img {
         width: 121px;
@@ -54,7 +64,7 @@
 
     @include media-query($on-palm) {
       display: block;
-      margin-top: 20px;
+      margin-top: 30px;
       padding-left: 0;
     }
 
