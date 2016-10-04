@@ -25,9 +25,9 @@ layout: default
 
   <div class="playbook-subtitle">Gallery</div>
   <div class="above-fold-text below">
-    Take a look at what other companies are doing to drive voter turn out<br class="on-home" />
-    in big and small ways. Every bit helps. Know about other voter turnout features?<br class="on-home" />
-    <a href="#">Tell us</a> so we can share them as a resource for others here!
+    Learn what companies are doing to drive voter turnout in big and small ways<br class="on-home" />
+    Know about other companies taking action? <br class="on-home" />
+    <a href="mailto:info@techthevote.org">Let us know</a> so we can showcase them here!
   </div>
   
   <!-- Start Gallery Menu -->
@@ -37,7 +37,7 @@ layout: default
     </a>
 
     <a href="#" class="nav-element gallery-logo skimm">
-      <div class="nav-element-description">Elections-Focused Page</div>
+      <div class="nav-element-description">Elections-Focused Site</div>
     </a>
 
     <a href="#" class="nav-element gallery-logo google">
@@ -45,7 +45,7 @@ layout: default
     </a>
 
     <a href="#" class="nav-element gallery-logo airbnb">
-      <div class="nav-element-description">Elections-Focused Page</div>
+      <div class="nav-element-description">Voting-Focused Site</div>
     </a>
 
     <a href="#" class="nav-element gallery-logo quora">
@@ -53,11 +53,11 @@ layout: default
     </a>
 
     <a href="#" class="nav-element gallery-logo square">
-      <div class="nav-element-description">Register to Vote Button</div>
+      <div class="nav-element-description">Register to Vote Option</div>
     </a>
 
     <a href="#" class="nav-element gallery-logo doordash">
-      <div class="nav-element-description">Voter Registration Form</div>
+      <div class="nav-element-description">Registration Form Delivery</div>
     </a>
 
     <a href="#" class="nav-element gallery-logo twitter">
@@ -75,8 +75,9 @@ layout: default
     <div class="gallery-text">
       <h2>Facebook</h2>
       Facebook launched a homepage promotion to encourage people to confirm
-      they were registered to vote. They linked to ___ for registration and encourage
-      social sharing
+      they were registered to vote. They linked to <a href="vote.usa.gov">http://vote.usa.gov/</a> for registration and
+      encourage social sharing with a "registered to vote" status. <a href="http://www.sfchronicle.com/politics/article/Facebook-drives-big-spike-in-California-voter-9458921.php" target="_blank">SF Chronicle</a>
+      reported that California saw a 13X jump in voter registrations on the day of this Facebook promotion.
     </div>
   </div>
 
@@ -86,10 +87,9 @@ layout: default
     </div>
     <div class="gallery-text">
       <h2>The Skimm</h2>
-      TheSkimm launched an elections focused page at
+      TheSkimm launched a site dedicated to the elections at
       http://www.theskimm.com/2016-election 
-      using a white label version of [Rock the Vote]'s tools. To date, they
-      have helped register over 85K people.
+      using a white label version of <a href="www.rockthevote.org" target="_blank">Rock the Vote</a>'s tools to power voter registration. They also included links to help people learn more about candidates and election issues. Daily Skimm emails have included promotions pointing to this page. To date, they have helped register over 85K people.
     </div>
   </div>
 
@@ -104,7 +104,7 @@ layout: default
       on their homepage calling upon people to vote in English, Spanish and Chinese
       within their animated image. They pointed this Doodle at their 
       <a target="_blank" href="https://www.google.com/search?q=register+to+vote+in+the+united+states">2016 Election search tool</a>
-      which gives people all the info they need to vote.
+      which gives people all the state-specific info they need to vote. (This data is also available to other companies via Google's <a href="https://developers.google.comcivic-information/" target="_blank">Civic Information API</a>.)
     </div>
   </div>
 
@@ -114,11 +114,9 @@ layout: default
     </div>
     <div class="gallery-text">
       <h2>Airbnb</h2>
-      Airbnb launched an elections focused page at
+      Airbnb launched and promoted a voter registration site at
       <a target="_blank" href="http://votingrightsact.airbnbaction.com/">http://votingrightsact.airbnbaction.com/</a> 
-      and their CEO, Brian Chesky, 
-      <a target="_blank" href="https://www.airbnb.com/press/news/honoring-the-voting-rights-act">authored a post</a>
-      about the importance of the Voting Rights Act.
+      to commemorate the day the <a target="_blank" href="https://www.airbnb.com/press/news/honoring-the-voting-rights-act">Voting Rights Act</a> was signed in 1965. They partnered with National Coalition on Black Civic Participation, Voto Latino and Democracy Works to provide specialized voter registration options, all powered by <a href="http://www.turbovote.org" target="_blank">http://www.turbovote.org</a>.
     </div>
   </div>
 
@@ -128,8 +126,8 @@ layout: default
     </div>
     <div class="gallery-text">
       <h2>Quora</h2>
-      Quora asked people if they had registered to vote right next to their
-      home feed. Their Register to Vote button led people to XYZ.
+      Quora asked people to register to vote next to their
+      home feed. Their Register to Vote button led people to [site].
     </div>
   </div>
 
@@ -139,7 +137,7 @@ layout: default
     </div>
     <div class="gallery-text">
       <h2>Square</h2>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et placerat libero. Aliquam sed ligula turpis. Suspendisse a maximus leo, ac vehicula purus.
+        Square built a feature into its payments platform to allow its many businesses to easily add a "Register Today" call to action at the bottom of their purchase receipts. Their registration prompts took people to <a href="vote.usa.gov" target="_blank">http://vote.usa.gov</a> for registration.
     </div>
   </div>
 
@@ -149,7 +147,7 @@ layout: default
     </div>
     <div class="gallery-text">
       <h2>Doordash</h2>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et placerat libero. Aliquam sed ligula turpis. Suspendisse a maximus leo, ac vehicula purus.
+      Doordash partnered with <a href="www.rockthevote.org" target="_blank">Rock the Vote</a> to add voter registration form delivery to its services. They created a new "store" so customers could "order" registration forms delivered to their doorsteps.
     </div>
   </div>
 
@@ -159,7 +157,7 @@ layout: default
     </div>
     <div class="gallery-text">
       <h2>Twitter</h2>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et placerat libero. Aliquam sed ligula turpis. Suspendisse a maximus leo, ac vehicula purus.
+      Twitter launched @Gov to help people register by simply sending a direct message with their zip code. @Gov would respond with information about local deadlines and how to register.
     </div>
   </div>
 
