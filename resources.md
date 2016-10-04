@@ -127,3 +127,95 @@ Download free voter registration tools to offer directly on your site.
 </div>
 
 </div>
+
+---
+
+<div class="resource-item" markdown="1">
+
+<div class="resource-image" markdown="1">
+<a href="https://turbovote.org" target="_blank" class="resource-image-inner" markdown="1">
+<img src="{{site.baseurl}}/assets/images/vote-logo.png" class="turbovote" />
+</a>
+</div>
+
+<div class="resource-text" markdown="1">
+## TurboVote
+{: .resources-header }
+
+<div class="resources-url-wrapper">
+	<a href="https://turbovote.org" target="_blank" class="inline-link">https://turbovote.org</a>
+</div>
+
+Copy is forthcoming
+</div>
+
+</div>
+
+---
+
+<div class="resource-item" markdown="1">
+
+<div class="resource-image" markdown="1">
+<a href="http://rockthevote.org" target="_blank" class="resource-image-inner" markdown="1">
+<img src="{{site.baseurl}}/assets/images/vote-logo.png" class="rockthevote" />
+</a>
+</div>
+
+<div class="resource-text" markdown="1">
+## Rock the Vote
+{: .resources-header }
+
+<div class="resources-url-wrapper">
+	<a href="http://rockthevote.org" target="_blank" class="inline-link">http://rockthevote.org</a>
+</div>
+
+No really
+</div>
+
+</div>
+
+---
+
+<div class="resource-item" markdown="1">
+
+<div class="resource-image" markdown="1">
+<a href="http://vote.usa.gov" target="_blank" class="resource-image-inner" markdown="1">
+<img src="{{site.baseurl}}/assets/images/vote-logo.png" class="votegov" />
+</a>
+</div>
+
+<div class="resource-text" markdown="1">
+## Voter Registration
+{: .resources-header }
+
+<div class="resources-url-wrapper">
+	<a href="http://vote.usa.gov" target="_blank" class="inline-link">http://vote.usa.gov</a>
+</div>
+
+Your skepticism is totally unwarranted
+</div>
+
+</div>
+
+---
+
+<div class="resource-item" markdown="1">
+
+<div class="resource-image" markdown="1">
+<a href="http://takeoffelectionday.com" target="_blank" class="resource-image-inner" markdown="1">
+<img src="{{site.baseurl}}/assets/images/vote-logo.png" class="takeoffelectionday" />
+</a>
+</div>
+
+<div class="resource-text" markdown="1">
+## Take Off Election Day
+{: .resources-header }
+
+<div class="resources-url-wrapper">
+	<a href="http://takeoffelectionday.com" target="_blank" class="inline-link">http://takeoffelectionday.com</a>
+</div>
+
+Unexpected fourth item!
+</div>
+
+</div>
