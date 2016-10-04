@@ -126,7 +126,7 @@ layout: default
     <div class="gallery-text">
       <h2>Quora</h2>
       Quora asked people to register to vote next to their
-      home feed. Their Register to Vote button led people to [site].
+      home feed. Their Register to Vote button led people to the <a href="http://nationalvoterregistrationday.org/register-to-vote/" target="_blank">National Voter Registration Day</a> site.
     </div>
   </div>
 
