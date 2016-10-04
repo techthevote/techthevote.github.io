@@ -25,9 +25,8 @@ layout: default
 
   <div class="playbook-subtitle">Gallery</div>
   <div class="above-fold-text below">
-    Learn what companies are doing to drive voter turnout in big and small ways<br class="on-home" />
-    Know about other companies taking action? <br class="on-home" />
-    <a href="mailto:info@techthevote.org">Let us know</a> so we can showcase them here!
+    Learn from how tech companies are driving voter turnout in big and small ways<br class="on-home" />
+    <a href="mailto:info@techthevote.org">Let us know</a> about other features we should showcase.
   </div>
   
   <!-- Start Gallery Menu -->
@@ -88,7 +87,7 @@ layout: default
     <div class="gallery-text">
       <h2>The Skimm</h2>
       TheSkimm launched a site dedicated to the elections at
-      http://www.theskimm.com/2016-election 
+      <a href="http://www.theskimm.com/2016-election" target="_blank">http://www.theskimm.com/2016-election</a>
       using a white label version of <a href="www.rockthevote.org" target="_blank">Rock the Vote</a>'s tools to power voter registration. They also included links to help people learn more about candidates and election issues. Daily Skimm emails have included promotions pointing to this page. To date, they have helped register over 85K people.
     </div>
   </div>
@@ -157,7 +156,7 @@ layout: default
     </div>
     <div class="gallery-text">
       <h2>Twitter</h2>
-      Twitter launched @Gov to help people register by simply sending a direct message with their zip code. @Gov would respond with information about local deadlines and how to register.
+      Twitter launched <a href="http://www.twitter.com/gov" target="_blank">@Gov</a> to help people register by simply sending a direct message with their zip code. <a href="http://www.twitter.com/gov" target="_blank">@Gov</a> responds with information about local deadlines and how to register.
     </div>
   </div>
 
