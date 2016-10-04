@@ -169,7 +169,7 @@ Copy is forthcoming
 	<a href="http://rockthevote.org" target="_blank" class="inline-link">http://rockthevote.org</a>
 </div>
 
-No really
+Copy is forthcoming (2)
 </div>
 
 </div>
@@ -192,7 +192,7 @@ No really
 	<a href="http://vote.usa.gov" target="_blank" class="inline-link">http://vote.usa.gov</a>
 </div>
 
-Your skepticism is totally unwarranted
+Copy is forthcoming (3)
 </div>
 
 </div>
@@ -215,7 +215,7 @@ Your skepticism is totally unwarranted
 	<a href="http://takeoffelectionday.com" target="_blank" class="inline-link">http://takeoffelectionday.com</a>
 </div>
 
-Unexpected fourth item!
+Copy is forthcoming (4)
 </div>
 
 </div>
