@@ -82,9 +82,13 @@
       background-color: #F4F4F4;
     }
 
-    &.facebook { background-image: url(/assets/images/gallery/logos/facebook-logo-preview-400x400.png); }
+    &.facebook {
+      background-image: url(/assets/images/gallery/logos/facebook-logo-preview-400x400.png);
+    }
 
-    &.skimm { background-image: url(/assets/images/gallery/logos/elections_skimm_logo-db74b0040acfab22a090e90c283af5ff.png); }
+    &.skimm {
+      background-image: url(/assets/images/gallery/logos/elections_skimm_logo-db74b0040acfab22a090e90c283af5ff.png);
+    }
 
     &.google { 
       background-image: url(/assets/images/gallery/logos/Google_2015_logo.svg.png); 
@@ -94,14 +98,27 @@
     &.airbnb { 
       background-image: url(/assets/images/gallery/logos/Airbnb_Logo.sng.png); 
       background-size: 125px;
-      padding-right: 5px;
     }
 
     &.quora { 
       background-image: url(/assets/images/gallery/logos/Quora_logo_2015.svg.png); 
       background-size: 125px; 
     }
-    &.square { background-image: url(/assets/images/gallery/logos/Square,_Inc._logo.svg.png); }
+
+    &.doordash {
+      background-image: url(/assets/images/gallery/logos/doordash_logo.png);
+      background-size: 140px;
+    }
+
+    &.twitter {
+      background-image: url(/assets/images/gallery/logos/twitter_logo.svg);
+      background-size: 80px;
+    }
+
+    &.square {
+      background-image: url(/assets/images/gallery/logos/square_logo.png);
+      background-size: 145px;
+    }
   }
 }
 

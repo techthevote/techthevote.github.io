@@ -51,6 +51,18 @@ layout: default
     <a href="#" class="nav-element gallery-logo quora">
       <div class="nav-element-description">Register to Vote Button</div>
     </a>
+
+    <a href="#" class="nav-element gallery-logo square">
+      <div class="nav-element-description">Register to Vote Button</div>
+    </a>
+
+    <a href="#" class="nav-element gallery-logo doordash">
+      <div class="nav-element-description">Voter Registration Form</div>
+    </a>
+
+    <a href="#" class="nav-element gallery-logo twitter">
+      <div class="nav-element-description">Voter Registration Bot</div>
+    </a>
   </div>
   <!-- End Gallery Menu -->
 
@@ -112,7 +124,7 @@ layout: default
 
   <div id="quora" class="gallery-container">
     <div class="gallery-image">
-      <img src="/assets/images/gallery/screenshots/quora-registration-web-2016.png" />
+      <img src="/assets/images/gallery/screenshots/quora-vote-button.png" />
     </div>
     <div class="gallery-text">
       <h2>Quora</h2>
