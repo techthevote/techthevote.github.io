@@ -133,6 +133,36 @@ layout: default
     </div>
   </div>
 
+  <div id="square" class="gallery-container">
+    <div class="gallery-image">
+      <img src="/assets/images/gallery/screenshots/square_callout_2.png" />
+    </div>
+    <div class="gallery-text">
+      <h2>Square</h2>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et placerat libero. Aliquam sed ligula turpis. Suspendisse a maximus leo, ac vehicula purus.
+    </div>
+  </div>
+
+  <div id="doordash" class="gallery-container">
+    <div class="gallery-image">
+      <img src="/assets/images/gallery/screenshots/doordash_1.png" />
+    </div>
+    <div class="gallery-text">
+      <h2>Doordash</h2>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et placerat libero. Aliquam sed ligula turpis. Suspendisse a maximus leo, ac vehicula purus.
+    </div>
+  </div>
+
+  <div id="twitter" class="gallery-container">
+    <div class="gallery-image">
+      <img src="/assets/images/gallery/screenshots/twitter_dm.png" />
+    </div>
+    <div class="gallery-text">
+      <h2>Twitter</h2>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et placerat libero. Aliquam sed ligula turpis. Suspendisse a maximus leo, ac vehicula purus.
+    </div>
+  </div>
+
   <!-- End Gallery Markup -->
 
   <hr /> 
