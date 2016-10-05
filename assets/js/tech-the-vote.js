@@ -35,5 +35,5 @@ $('.gallery-logo').click(function(event) {
   console.log(companyClass);
 
   $('.gallery-container').css('display', 'none');
-  $('#' + companyClass).css('display', 'flex');
+  $('#' + companyClass).css('display', 'inline-block');
 });
