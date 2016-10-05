@@ -74,10 +74,9 @@ We're available on Slack to answer your questions, brainstorm product ideas, and
 {: .resources-header }
 
 <div class="resources-url-wrapper">
-	<a href="http://www.voteplz.org" target="_blank" class="inline-link">http://www.voteplz.org</a>
+	<a href="http://www.voteplz.org/partners" target="_blank" class="inline-link">http://www.voteplz.org/partners</a>
 </div>
-
-Point people here to easily complete their registration and learn more about voting.
+Voteplz provides a modern, mobile-friendly registration site that even sends pre-stamped forms via mail. Voteplz offers you tools including a custom short-code to help track registrations you drive. They have an unbranded iframe (no header or footer) unit for registration that provides people a way to opt-in to email or SMS communication from you.
 </div>
 
 </div>
@@ -97,10 +96,10 @@ Point people here to easily complete their registration and learn more about vot
 {: .resources-header }
 
 <div class="resources-url-wrapper">
-	<a href="https://developers.google.com/civic-information/" target="_blank" class="inline-link">https://developers.google.comcivic-information/</a>
+	<a href="https://developers.google.com/civic-information/" target="_blank" class="inline-link">https://developers.google.com/civic-information/</a>
 </div>
 
-State registration deadlines, early voting windows, and polling location addresses, and more. Request access [here](https://docs.google.com/forms/d/e/1FAIpQLSe5hF4w1LuO_d4KSlbX1aGtv67XasNjhJc73QbWlkrYVldX_Q/viewform).
+Google offers voting and election information via their Civic Information API as well as a spreadsheet they maintain of the latest voting deadlines and requirements. You can request access to that spreadsheet by completing [this form](https://docs.google.com/forms/d/e/1FAIpQLSe5hF4w1LuO_d4KSlbX1aGtv67XasNjhJc73QbWlkrYVldX_Q/viewform).
 </div>
 
 </div>
@@ -123,7 +122,7 @@ State registration deadlines, early voting windows, and polling location address
 	<a href="https://www.vote.org/technology/" target="_blank" class="inline-link">https://www.vote.org/technology</a>
 </div>
 
-Download free voter registration tools to offer directly on your site.
+Vote.org offers simple iframes that are mobile-optimized and fast for (1) voter registration, (2) absentee ballot requests, and (3) checking voter registration status. They also offer a suite of premium tools for those who want to access data.
 </div>
 
 </div>
@@ -146,7 +145,7 @@ Download free voter registration tools to offer directly on your site.
 	<a href="https://turbovote.org" target="_blank" class="inline-link">https://turbovote.org</a>
 </div>
 
-Copy is forthcoming
+TurboVote, an application of the group [Democracy Works](http://democracy.works), offers voter registration in English and Spanish interface languages. They also provide a list of links to [state online registration sites](https://classic.turbovote.org/register_online_state_sites). To work with TurboVote, [use their contact form](http://democracy.works/contact).
 </div>
 
 </div>
@@ -166,10 +165,10 @@ Copy is forthcoming
 {: .resources-header }
 
 <div class="resources-url-wrapper">
-	<a href="http://rockthevote.org" target="_blank" class="inline-link">http://rockthevote.org</a>
+	<a href="https://www.rockthevote.com/get-involved/register-voters/" target="_blank" class="inline-link">https://www.rockthevote.com/get-involved/register-voters/</a>
 </div>
+Rock the Vote offers an iframe, API and data tools via their online voter registration tool, all free for partners. Registered partners can access customization tools, embeds, stats and registration data. Their registration experience is mobile-friendly and available in 13 languages.
 
-Copy is forthcoming (2)
 </div>
 
 </div>
@@ -192,7 +191,32 @@ Copy is forthcoming (2)
 	<a href="http://vote.usa.gov" target="_blank" class="inline-link">http://vote.usa.gov</a>
 </div>
 
-Copy is forthcoming (3)
+This site is an official website of the United States government and simply routes people through a state dropdown selector to the state online voter registration page.
+
+</div>
+
+</div>
+
+---
+
+<div class="resource-item" markdown="1">
+
+<div class="resource-image" markdown="1">
+<a href="https://www.votinginfoproject.org/projects/vip-voting-information-tool/" target="_blank" class="resource-image-inner" markdown="1">
+<img src="{{site.baseurl}}/assets/images/vip_logo.png" class="vip" />
+</a>
+</div>
+
+<div class="resource-text" markdown="1">
+## Voter Information Project
+{: .resources-header }
+
+<div class="resources-url-wrapper">
+	<a href="https://www.votinginfoproject.org/projects/vip-voting-information-tool/" target="_blank" class="inline-link">https://www.votinginfoproject.org/projects/vip-voting-information-tool/</a>
+</div>
+
+The Voter Information Project, in partnership with Pew Charitable Trusts and Google, offers an embeddable, mobile-optimized, and white-label voting information tool which lets people put in any reisdential address and get polling place and ballot information. Most data will be populated in the 2-4 weeks before Election Day.
+
 </div>
 
 </div>
@@ -215,7 +239,8 @@ Copy is forthcoming (3)
 	<a href="http://takeoffelectionday.com" target="_blank" class="inline-link">http://takeoffelectionday.com</a>
 </div>
 
-Copy is forthcoming (4)
+Don't forget your employees across the country are voters too. Check out this site to learn how to show your own organization that their civic duty matters. Join hundreds of other companies encouraging employees to take the time off to go vote on Election Day.
+
 </div>
 
 </div>
