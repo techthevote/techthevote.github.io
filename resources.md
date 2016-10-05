@@ -134,7 +134,7 @@ Download free voter registration tools to offer directly on your site.
 
 <div class="resource-image" markdown="1">
 <a href="https://turbovote.org" target="_blank" class="resource-image-inner" markdown="1">
-<img src="{{site.baseurl}}/assets/images/vote-logo.png" class="turbovote" />
+<img src="{{site.baseurl}}/assets/images/turbovote-logo.png" class="turbovote" />
 </a>
 </div>
 
@@ -157,7 +157,7 @@ Copy is forthcoming
 
 <div class="resource-image" markdown="1">
 <a href="http://rockthevote.org" target="_blank" class="resource-image-inner" markdown="1">
-<img src="{{site.baseurl}}/assets/images/vote-logo.png" class="rockthevote" />
+<img src="{{site.baseurl}}/assets/images/rock-the-vote-logo.png" class="rockthevote" />
 </a>
 </div>
 
@@ -180,7 +180,7 @@ Copy is forthcoming (2)
 
 <div class="resource-image" markdown="1">
 <a href="http://vote.usa.gov" target="_blank" class="resource-image-inner" markdown="1">
-<img src="{{site.baseurl}}/assets/images/vote-logo.png" class="votegov" />
+<img src="{{site.baseurl}}/assets/images/usagov_logo.png" class="votegov" />
 </a>
 </div>
 
@@ -203,7 +203,7 @@ Copy is forthcoming (3)
 
 <div class="resource-image" markdown="1">
 <a href="http://takeoffelectionday.com" target="_blank" class="resource-image-inner" markdown="1">
-<img src="{{site.baseurl}}/assets/images/vote-logo.png" class="takeoffelectionday" />
+<img src="{{site.baseurl}}/assets/images/take_off_election_day_logo.png" class="takeoffelectionday" />
 </a>
 </div>
 
