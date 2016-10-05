@@ -140,9 +140,11 @@ br.on-home {
   display: inline-block;
   display: none;
   margin: 0 80px;
+  white-space: nowrap;
 
   @include media-query(850px) {
     margin: 0;
+    white-space: initial;
   }
 
   .gallery-image {
@@ -154,6 +156,7 @@ br.on-home {
     display: inline-block;
     width: 40%;
     vertical-align: top;
+    white-space: initial;
 
     @include media-query(850px) {
       width: 100%;
