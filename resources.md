@@ -203,7 +203,7 @@ This site is an official website of the United States government and simply rout
 
 <div class="resource-image" markdown="1">
 <a href="https://www.votinginfoproject.org/projects/vip-voting-information-tool/" target="_blank" class="resource-image-inner" markdown="1">
-<img src="{{site.baseurl}}/assets/images/vip_logo.png" class="vip" />
+<img src="{{site.baseurl}}/assets/images/voter_information_logo.png" class="vip" />
 </a>
 </div>
 
