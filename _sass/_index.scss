@@ -47,83 +47,14 @@
       text-align: center;
     }
   }
-
-  .gallery-logo {
-    background-size: 175px;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-origin: content-box;
-    position: relative;
-
-    width: 225px;
-    height: 105px;
-    padding: 0;
-    padding-bottom: 25px;
-
-    @include media-query(850px) {
-      width: 90%;
-      height: 90px;
-    }
-
-    .nav-element-description {
-      position: absolute;
-      bottom: 25px;
-      left: 0;
-      right: 0;
-
-      @include media-query(850px) {
-        position: relative;
-        bottom: 0;
-        top: 70px;
-      }
-    }
-
-    &.selected {
-      background-color: #F4F4F4;
-    }
-
-    &.facebook {
-      background-image: url(/assets/images/gallery/logos/facebook-logo-preview-400x400.png);
-    }
-
-    &.skimm {
-      background-image: url(/assets/images/gallery/logos/skimm_logo.png);
-    }
-
-    &.google { 
-      background-image: url(/assets/images/gallery/logos/Google_2015_logo.svg.png); 
-      background-size: 125px; 
-    }
-
-    &.airbnb { 
-      background-image: url(/assets/images/gallery/logos/Airbnb_Logo.sng.png); 
-      background-size: 125px;
-    }
-
-    &.quora { 
-      background-image: url(/assets/images/gallery/logos/Quora_logo_2015.svg.png); 
-      background-size: 125px; 
-    }
-
-    &.doordash {
-      background-image: url(/assets/images/gallery/logos/doordash_logo.png);
-      background-size: 140px;
-    }
-
-    &.twitter {
-      background-image: url(/assets/images/gallery/logos/twitter_logo.svg);
-      background-size: 80px;
-    }
-
-    &.square {
-      background-image: url(/assets/images/gallery/logos/square_logo.png);
-      background-size: 145px;
-    }
-  }
 }
 
-.playbook-nav-wrapper.gallery {
-  margin-bottom: 40px;
+.homepage-content hr.gallery-sep {
+  display: none;
+}
+
+.homepage-content .gallery-logo.extended {
+  display: none;
 }
 
 div.playbook-nav-wrapper+hr {
@@ -133,67 +64,6 @@ div.playbook-nav-wrapper+hr {
 br.on-home {
   @include media-query(850px) {
     display: none;
-  }
-}
-
-.gallery-container {
-  display: inline-block;
-  display: none;
-  margin: 0 80px;
-  white-space: nowrap;
-
-  @include media-query(850px) {
-    margin: 0;
-    white-space: initial;
-  }
-
-  .gallery-image {
-    display: inline-block;
-  }
-
-  .gallery-text {
-    line-height: 1.4;
-    display: inline-block;
-    width: 40%;
-    vertical-align: top;
-    white-space: initial;
-
-    @include media-query(850px) {
-      width: 100%;
-      text-align: center;
-    }
-  }
-
-  img {
-    border: 5px solid #EAEBEE;
-    max-width: 490px;
-
-    @include media-query(850px) {
-      max-width: 100%;
-      border: none;
-      border-radius: 3px;
-    }
-  }
-
-  .gallery-text {
-    margin-left: 40px;
-    color: #949494;
-
-    @include media-query(850px) {
-      margin-left: 0;
-    }
-
-    h2 {
-      color: #111111;
-      text-align: left;
-      font-size: 24px;
-
-      @include media-query(850px) {
-        text-align: center;
-        margin-bottom: 0;
-        margin-top: 30px;
-      }
-    }
   }
 }
 

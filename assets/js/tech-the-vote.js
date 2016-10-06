@@ -23,14 +23,26 @@ $('.chapter-3').click(function(event) {
 });
 
 $('.gallery-logo').click(function(event) {
+  if ($(".separate-page").length > 0) {
+    // on the dedicated page, treat boxes as normal links
+    return true;
+  }
+
+  if ($(this).attr("class").indexOf("seemore") > -1) {
+    // the see more link is a normal link
+    return true;
+  }
+
   event.preventDefault();
   $('.gallery-logo').removeClass('selected');
   $( this ).addClass('selected');
 
+  // todo: something better..
   var companyClass = $( this ).attr("class")
     .replace("gallery-logo", "")
     .replace("nav-element", "")
     .replace("selected", "")
+    .replace("extended", "")
     .trim();
   console.log(companyClass);
 
