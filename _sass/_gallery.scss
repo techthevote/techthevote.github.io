@@ -150,3 +150,9 @@
     }
   }
 }
+
+.show-3-on-home { 
+  @include media-query(850px) {
+    display: none !important; 
+  }
+}
