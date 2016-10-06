@@ -29,7 +29,7 @@ excerpt: Find useful resources to make your elections integrations easier, from 
 	<a href="{{site.baseurl}}/assets/resources/image-assets.zip" target="_blank" class="inline-link">Download for free</a>
 </div>
 
-Download free banners to <a href="./faq#can-anyone-use-the-banners-you-provide" class="nav-element">use on your site or app</a>.
+Download free banners to <a href="./faq#can-anyone-use-the-banners-you-provide" class="nav-element">use on your site or app</a>. See more on our <a href="/election_assets">assets page</a>.
 </div>
 
 </div>
