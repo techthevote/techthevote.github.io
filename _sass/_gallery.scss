@@ -66,6 +66,23 @@
       background-size: 80px;
     }
 
+    &.pinterest {
+      background-image: url(/assets/images/gallery/logos/pinterest_logo.svg);
+      background-size: 145px;
+    }
+
+    &.uber {
+      background-image: url(/assets/images/gallery/logos/uber_logo_2.png);
+      background-size: 145px;
+    }
+
+    &.seemore {
+      .nav-element-description {
+        font-size: 18px;
+        top: 50px;
+      }
+    }
+
     &.square {
       background-image: url(/assets/images/gallery/logos/square_logo.png);
       background-size: 145px;
