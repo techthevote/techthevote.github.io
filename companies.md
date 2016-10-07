@@ -1,5 +1,9 @@
 ---
 layout: default
+title: Company Gallery
+permalink: /companies
+excerpt: A gallery of voter registration projects implemented by a variety of companies.
+
 ---
 
 <div class="page-title">
