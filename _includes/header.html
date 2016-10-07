@@ -16,20 +16,20 @@
      </li>
      <li>
        {% assign active = "" %}
-       {% if page.permalink == "/resources" %}
-         {% assign active = " active" %}
-       {% endif %}
-       <a title="Resources" class="{{ "link resources not-home" | append: active }}" href="{{ site.baseurl }}/resources">
-         Resources
-       </a>
-     </li>
-     <li>
-       {% assign active = "" %}
        {% if page.permalink == "/gallery" %}
          {% assign active = " active" %}
        {% endif %}
        <a title="Gallery" class="{{ "link gallery not-home" | append: active }}" href="{{ site.baseurl }}/gallery">
          Gallery
+       </a>
+     </li>
+     <li>
+       {% assign active = "" %}
+       {% if page.permalink == "/resources" %}
+         {% assign active = " active" %}
+       {% endif %}
+       <a title="Resources" class="{{ "link resources not-home" | append: active }}" href="{{ site.baseurl }}/resources">
+         Resources
        </a>
      </li>
      <li>
