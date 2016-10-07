@@ -25,8 +25,8 @@ layout: default
 
   <div class="playbook-subtitle">Gallery</div>
   <div class="above-fold-text below">
-    Learn from how tech companies are driving voter turnout in big and small ways<br class="on-home" />
-    <a href="mailto:info@techthevote.org">Let us know</a> about other features we should showcase.
+    Learn how tech companies are driving voter turnout in big and small ways.<br class="on-home" />
+    <a href="mailto:info@techthevote.org">Let us know</a> about other companies we can add here.
   </div>
   
   {% include gallery.html %}
