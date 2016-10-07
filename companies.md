@@ -10,7 +10,7 @@ excerpt: A gallery of voter registration projects implemented by a variety of co
   Gallery
   <div class="inner playbook">
     Learn how tech companies are driving voter turnout in big and small ways.<br>
-    <a href="mailto:info@techthevote.org">Let us know</a> about other companies we can add here.
+    <a href="mailto:info@techthevote.org">Let us know</a> when we can feature what your company is doing!
   </div>
 </div>
 
