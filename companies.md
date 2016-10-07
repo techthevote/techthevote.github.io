@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Company Gallery
-permalink: /companies
+permalink: /gallery
 excerpt: A gallery of voter registration projects implemented by a variety of companies.
 
 ---

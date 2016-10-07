@@ -25,10 +25,10 @@
      </li>
      <li>
        {% assign active = "" %}
-       {% if page.permalink == "/companies" %}
+       {% if page.permalink == "/gallery" %}
          {% assign active = " active" %}
        {% endif %}
-       <a title="Gallery" class="{{ "link companies not-home" | append: active }}" href="{{ site.baseurl }}/companies">
+       <a title="Gallery" class="{{ "link gallery not-home" | append: active }}" href="{{ site.baseurl }}/gallery">
          Gallery
        </a>
      </li>
