@@ -70,7 +70,7 @@ We're available on Slack to answer your questions, brainstorm product ideas, and
 </div>
 
 <div class="resource-text" markdown="1">
-## Voteplz.org
+## Voteplz - Registration Tools
 {: .resources-header }
 
 <div class="resources-url-wrapper">
@@ -94,7 +94,7 @@ To use them, you can direct people to their website, or you can use their tools 
 </div>
 
 <div class="resource-text" markdown="1">
-## Vote.org
+## Vote.org - Registration Tools
 {: .resources-header }
 
 <div class="resources-url-wrapper">
@@ -120,7 +120,7 @@ To use them, you can embed iframes into your product which allow people to (1) r
 </div>
 
 <div class="resource-text" markdown="1">
-## Rock the Vote
+## Rock the Vote - Registration Tools
 {: .resources-header }
 
 <div class="resources-url-wrapper">
@@ -143,7 +143,7 @@ To use them, there are multiple ways to integrate voter registration into your p
 </div>
 
 <div class="resource-text" markdown="1">
-## TurboVote
+## TurboVote - Registration Tools
 {: .resources-header }
 
 <div class="resources-url-wrapper">
@@ -168,7 +168,7 @@ To use them you can simply direct people to their website, or partner with them 
 </div>
 
 <div class="resource-text" markdown="1">
-## Voter Registration
+## Vote.usa.gov - Registration Tools
 {: .resources-header }
 
 <div class="resources-url-wrapper">
@@ -192,14 +192,14 @@ This is an official website run by the US government. It is very minimal, and si
 </div>
 
 <div class="resource-text" markdown="1">
-## Voter Information Project
+## Voter Information Project - Polling Place Lookup
 {: .resources-header }
 
 <div class="resources-url-wrapper">
 	<a href="https://www.votinginfoproject.org/projects/vip-voting-information-tool/" target="_blank" class="inline-link">https://www.votinginfoproject.org/projects/vip-voting-information-tool/</a>
 </div>
 
-The Voter Information Project, in partnership with Pew Charitable Trusts and Google, offers an embeddable, mobile-optimized, and white-label voting information tool which lets people put in any reisdential address and get polling place and ballot information. Most data will be populated in the 2-4 weeks before Election Day.
+The Voter Information Project, in partnership with Pew Charitable Trusts and Google, offers an embeddable, mobile-optimized, and white-label voting information tool which lets people put in any residential address and get polling place and ballot information. Most data will be populated in the 2-4 weeks before Election Day.
 
 </div>
 
@@ -240,7 +240,7 @@ Google offers voting and election information via their Civic Information API as
 </div>
 
 <div class="resource-text" markdown="1">
-## Take Off Election Day
+## Take Off Election Day - For Your Employees
 {: .resources-header }
 
 <div class="resources-url-wrapper">
