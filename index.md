@@ -7,7 +7,7 @@ layout: default
     <div class="page-content">
       <div class="wrapper">
         <div class="home">
-          <img src="{{site.baseurl}}/assets/images/main-cta.png" class="main-cta">
+          <img src="{{site.baseurl}}/assets/images/main-cta@2x.png" class="main-cta">
           <div class="above-fold-text">
             People should vote. Our industry can help. TechTheVote.org makes it easy with all the information you need to make a difference in voter turnout. People use our products everyday. Now let's encourage them to vote too.
           </div>
