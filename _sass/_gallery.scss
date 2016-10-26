@@ -107,7 +107,17 @@
         top: 50px;
       }
     }
-
+ 
+    &.linkedin {
+      background-image: url(/assets/images/gallery/logos/linkedin-logo.png);
+      background-size: 145px;
+    }
+    
+    &.yelp {
+      background-image: url(/assets/images/gallery/logos/yelp-logo.png);
+      background-size: 145px;
+    }
+    
     &.square {
       background-image: url(/assets/images/gallery/logos/square_logo.png);
       background-size: 145px;
