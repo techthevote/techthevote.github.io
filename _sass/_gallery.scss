@@ -100,7 +100,12 @@
       background-image: url(/assets/images/gallery/logos/lyft-logo.png);
       background-size: 80px;
     }
-
+    
+    &.tinder {
+      background-image: url(/assets/images/gallery/logos/tinder-logo.png);
+      background-size: 145px;
+    }
+    
     &.seemore {
       .nav-element-description {
         font-size: 18px;
